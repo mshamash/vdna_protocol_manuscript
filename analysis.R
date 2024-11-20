@@ -7,7 +7,7 @@ library(cowplot)
 
 ### DATA CLEANING
 phage_cov <- read_tsv("phage-coverage.tsv")
-phage_cov_filt <- phage_cov %>% filter(meandepth > 1)
+phage_cov_filt <- phage_cov %>% filter(meandepth >= 1)
 phage_cov_filt.breadth <- phage_cov_filt %>% mutate(breadth = covbases/endpos)
 phage_cov_filt.breadth <- phage_cov_filt.breadth %>% filter(breadth >= 0.75)
 
@@ -59,10 +59,6 @@ nmds.bray.plot <- plot_ordination(ps, ord.nmds.bray, color="Environment", shape 
 
 nmds.bray.plot
 
-ord.nmds.jaccard <- ordinate(ps, method="NMDS", distance="jaccard")
-plot_ordination(ps, ord.nmds.jaccard, color="Environment", title="Jaccard NMDS", shape = "ExtractionMethod") +
-  geom_point(size = 3)
-
 sampledf <- data.frame(sample_data(ps))
 ps_BC <- vegdist(t(otu_table(ps)), method = "bray")
 
@@ -72,8 +68,8 @@ adonis2(ps_BC ~ ExtractionMethod + Environment + SampleID, sampledf)
 ### TABLE WITH PERMANOVA RESULTS
 permanova.table <- data.frame(
   `Effect` = c("ExtractionMethod", "Environment", "Sample"),
-  `R2` = c("0.00181", "0.37257", "0.60449"),
-  `P.value` = c("0.403", "0.001", "0.001"))
+  `R2` = c("0.00245", "0.37243", "0.59581"),
+  `P.value` = c("0.420", "0.001", "0.001"))
 
 permanova.flextable <- flextable(permanova.table) %>% 
   add_header_row(colwidths = c(3),
@@ -81,6 +77,8 @@ permanova.flextable <- flextable(permanova.table) %>%
   theme_vanilla() %>% 
   add_footer_lines("PERMANOVA (adonis2) with 999 permutations") %>% 
   autofit(add_w = 0.8) %>% 
+  bold(i = 3, j = 3) %>% 
+  bold(i = 2, j = 3) %>% 
   flextable::compose(i = 2, j = 2, part = "header", value = as_paragraph("R", as_sup("2"))) %>% 
   flextable::compose(i = 2, j = 3, part = "header", value = as_paragraph("P-value"))
 
@@ -101,6 +99,7 @@ richness.plot <- ggplot(ps_richness,
   geom_point(position = position_jitterdodge(), size = 2) +
   scale_fill_brewer(palette = "Paired", name = "") +
   scale_shape(name = "") +
+  ylab("Observed richness") +
   theme_bw() +
   theme(panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
@@ -135,7 +134,7 @@ wilcox.test((ps_richness %>% subset(Environment == "Soil" & ExtractionMethod == 
        (ps_richness %>% subset(Environment == "Soil" & ExtractionMethod == "KIT"))$Shannon,
        paired = TRUE)$p.value
 
-# RICHNESS
+# OBSERVED RICHNESS
 wilcox.test((ps_richness %>% subset(Environment == "HumanFecal" & ExtractionMethod == "PC"))$Observed, 
             (ps_richness %>% subset(Environment == "HumanFecal" & ExtractionMethod == "KIT"))$Observed,
             paired = TRUE)$p.value
@@ -182,7 +181,8 @@ bar.plot <- contig.summary %>%
   geom_bar(position="dodge", stat="identity") + # can change dodge to stack
   geom_text(aes(label=value), position=position_dodge(width=0.9), vjust=-0.4) + 
   xlab("Environment") +
-  ylab("Number of viral contigs") +
+  ylab("Number of vOTUs") +
+  ylim(0,825) +
   scale_fill_manual(values = c("#E69F00", "#56B4E9", "#009E73"), name = "",  labels = c("Unique PC", "Unique KIT", "Shared")) +
   theme_bw() +
   theme(axis.text.x = element_text(size = 10),
@@ -194,10 +194,11 @@ bar.plot <- contig.summary %>%
 bar.plot
 
 ### GENERATE FINAL FIGURES
-legend.B <- get_legend(
+legend.B <- get_plot_component(
   richness.plot + 
     guides(color = guide_legend(nrow = 1)) +
-    theme(legend.position = "bottom")
+    theme(legend.position = "bottom"),
+  'guide-box-bottom', return_all = TRUE
 )
 
 panel.B <- plot_grid(richness.plot, shannon.plot)
