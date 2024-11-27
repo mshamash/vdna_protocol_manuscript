@@ -1,0 +1,768 @@
+Virus,AAI to closest RaFAH reference,Host genus,Confidence score,List of methods
+DNACOMP-HUMAN-KIT-AE9678-NODE_15_length_4150_cov_5.195849,83.29,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.00,RaFAH;99.20
+DNACOMP-HUMAN-KIT-AE9678-NODE_2_length_67007_cov_6.055084,88.37,d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__Catenibacterium,96.60,blast;97.60 iPHoP-RF;59.50
+DNACOMP-HUMAN-KIT-AE9678-NODE_2_length_67007_cov_6.055084,88.37,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,96.30,CRISPR;92.80 RaFAH;82.00
+DNACOMP-HUMAN-KIT-AE9678-NODE_4_length_44075_cov_13.760722,91.52,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinifilaceae;g__Odoribacter,98.40,RaFAH;98.80
+DNACOMP-HUMAN-KIT-AE9678-NODE_4_length_44075_cov_13.760722,91.52,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-279,98.10,CRISPR;98.60
+DNACOMP-HUMAN-KIT-AE9678-NODE_7_length_25989_cov_9.101990,34.62,d__Archaea;p__Methanobacteriota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanobrevibacter_A,93.40,blast;95.30 iPHoP-RF;67.30
+DNACOMP-HUMAN-KIT-AE9678-NODE_9_length_14741_cov_5.222525,38.47,d__Archaea;p__Methanobacteriota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanobrevibacter_A,90.40,blast;92.90 iPHoP-RF;82.80
+DNACOMP-HUMAN-KIT-PY3111-NODE_12_length_19880_cov_123.575738,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.80,RaFAH;99.10
+DNACOMP-HUMAN-KIT-PY3111-NODE_12_length_19880_cov_123.575738,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,90.70,iPHoP-RF;93.10 blast;91.70 CRISPR;71.90
+DNACOMP-HUMAN-KIT-PY3111-NODE_20_length_12494_cov_5.638797,92.31,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.60 iPHoP-RF;95.40 blast;90.00
+DNACOMP-HUMAN-KIT-PY3111-NODE_20_length_12494_cov_5.638797,92.31,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,94.30,blast;96.00 iPHoP-RF;65.10 CRISPR;56.40
+DNACOMP-HUMAN-KIT-PY3111-NODE_20_length_12494_cov_5.638797,92.31,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,93.10,iPHoP-RF;95.10 blast;90.70
+DNACOMP-HUMAN-KIT-PY3111-NODE_25_length_10964_cov_27.142085,5.01,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.30,CRISPR;99.40 blast;92.80 iPHoP-RF;85.70
+DNACOMP-HUMAN-KIT-PY3111-NODE_31_length_6983_cov_4.597575,,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.00,blast;96.50 iPHoP-RF;88.20
+DNACOMP-HUMAN-KIT-PY3111-NODE_34_length_6299_cov_9.085682,99.22,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.80 iPHoP-RF;96.10 blast;91.00
+DNACOMP-HUMAN-KIT-PY3111-NODE_34_length_6299_cov_9.085682,99.22,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.60,blast;93.90 CRISPR;51.40
+DNACOMP-HUMAN-KIT-PY3111-NODE_3_length_78481_cov_133.922143,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,95.70,RaFAH;97.00
+DNACOMP-HUMAN-KIT-PY3111-NODE_3_length_78481_cov_133.922143,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes_A,95.70,RaFAH;97.00
+DNACOMP-HUMAN-KIT-PY3111-NODE_48_length_3118_cov_3.250082,12.52,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__F082;g__F082,93.50,iPHoP-RF;95.40
+DNACOMP-HUMAN-KIT-PY3111-NODE_5_length_66782_cov_12.195633,56.70,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,90.00,blast;92.50
+DNACOMP-HUMAN-KIT-PY3111-NODE_7_length_42895_cov_139.123856,7.61,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.40,CRISPR;98.80 iPHoP-RF;63.00
+DNACOMP-HUMAN-KIT-PY3111-NODE_8_length_37046_cov_29.720310,96.76,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinifilaceae;g__Odoribacter,98.70,RaFAH;99.00
+DNACOMP-HUMAN-KIT-PY3111-NODE_8_length_37046_cov_29.720310,96.76,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-279,94.30,CRISPR;96.00
+DNACOMP-HUMAN-KIT-PY3111-NODE_9_length_34741_cov_11.265871,99.94,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,CRISPR;97.90 RaFAH;97.60 iPHoP-RF;97.10 blast;92.40
+DNACOMP-HUMAN-KIT-PY3111-NODE_9_length_34741_cov_11.265871,99.94,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.10,blast;93.50
+DNACOMP-HUMAN-KIT-PY3199-NODE_10_length_34096_cov_13.555037,99.41,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;97.50 iPHoP-RF;96.70 blast;92.60
+DNACOMP-HUMAN-KIT-PY3199-NODE_10_length_34096_cov_13.555037,99.41,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.50,blast;95.40
+DNACOMP-HUMAN-KIT-PY3199-NODE_13_length_19355_cov_174.116373,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.80,RaFAH;99.10
+DNACOMP-HUMAN-KIT-PY3199-NODE_13_length_19355_cov_174.116373,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,92.20,iPHoP-RF;94.40 blast;91.70 CRISPR;71.90
+DNACOMP-HUMAN-KIT-PY3199-NODE_24_length_13804_cov_5.762455,40.33,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,98.70,iPHoP-RF;97.10 CRISPR;96.80 blast;96.60 RaFAH;83.60
+DNACOMP-HUMAN-KIT-PY3199-NODE_25_length_13785_cov_5.870648,12.78,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Tissierellales;f__Sedimentibacteraceae;g__Sedimentibacter,95.30,iPHoP-RF;96.70
+DNACOMP-HUMAN-KIT-PY3199-NODE_27_length_12620_cov_6.334501,5.10,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.70,RaFAH;98.90 iPHoP-RF;53.00
+DNACOMP-HUMAN-KIT-PY3199-NODE_27_length_12620_cov_6.334501,5.10,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,93.50,blast;95.40 iPHoP-RF;85.70
+DNACOMP-HUMAN-KIT-PY3199-NODE_28_length_12299_cov_4.825139,97.26,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Acetivibrionales;f__Acetivibrionaceae;g__Ruminiclostridium,97.60,RaFAH;98.30
+DNACOMP-HUMAN-KIT-PY3199-NODE_31_length_11719_cov_32.693158,88.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinifilaceae;g__Odoribacter,94.60,RaFAH;96.20
+DNACOMP-HUMAN-KIT-PY3199-NODE_34_length_10964_cov_26.020625,5.01,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.30,CRISPR;99.40 blast;92.80 iPHoP-RF;85.70
+DNACOMP-HUMAN-KIT-PY3199-NODE_38_length_8980_cov_6.096471,5.38,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,92.20,iPHoP-RF;94.40 blast;92.10 CRISPR;84.90
+DNACOMP-HUMAN-KIT-PY3199-NODE_3_length_78481_cov_208.358504,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,95.70,RaFAH;97.00
+DNACOMP-HUMAN-KIT-PY3199-NODE_3_length_78481_cov_208.358504,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes_A,95.70,RaFAH;97.00
+DNACOMP-HUMAN-KIT-PY3199-NODE_46_length_5792_cov_5.630295,37.07,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio,92.10,blast;94.30 iPHoP-RF;58.20
+DNACOMP-HUMAN-KIT-PY3199-NODE_48_length_5534_cov_3.988502,41.53,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Intestinimonas,91.20,blast;93.60 iPHoP-RF;72.20
+DNACOMP-HUMAN-KIT-PY3199-NODE_55_length_4892_cov_3.987802,55.59,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,95.90,iPHoP-RF;97.10
+DNACOMP-HUMAN-KIT-PY3199-NODE_56_length_4771_cov_5.474131,98.50,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,96.20,iPHoP-RF;91.80 blast;90.80 RaFAH;83.30
+DNACOMP-HUMAN-KIT-PY3199-NODE_57_length_4756_cov_6.467135,11.01,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,91.80,iPHoP-RF;94.10 blast;91.70
+DNACOMP-HUMAN-KIT-PY3199-NODE_59_length_4642_cov_5.593416,76.02,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,94.30,iPHoP-RF;94.40 RaFAH;64.10
+DNACOMP-HUMAN-KIT-PY3199-NODE_5_length_57204_cov_16.357574,56.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,90.00,blast;92.50
+DNACOMP-HUMAN-KIT-PY3199-NODE_62_length_4249_cov_4.235575,24.13,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,95.30,iPHoP-RF;96.70
+DNACOMP-HUMAN-KIT-PY3199-NODE_63_length_4221_cov_9.519203,99.72,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.80 iPHoP-RF;95.40 blast;92.10
+DNACOMP-HUMAN-KIT-PY3199-NODE_63_length_4221_cov_9.519203,99.72,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.60,blast;93.90 CRISPR;51.40
+DNACOMP-HUMAN-KIT-PY3199-NODE_69_length_3935_cov_5.490722,16.47,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio,91.10,blast;93.50 iPHoP-RF;83.60
+DNACOMP-HUMAN-KIT-PY3199-NODE_6_length_51239_cov_10.134437,16.08,d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadaceae;g__,91.00,iPHoP-RF;93.40
+DNACOMP-HUMAN-KIT-PY3199-NODE_70_length_3735_cov_3.611685,12.46,d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-138;g__Phil1,90.10,blast;92.60 iPHoP-RF;87.00
+DNACOMP-HUMAN-KIT-PY3199-NODE_78_length_3377_cov_3.332932,35.54,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio,90.00,blast;92.50
+DNACOMP-HUMAN-KIT-PY3199-NODE_7_length_42862_cov_189.126405,7.61,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.40,CRISPR;98.80 iPHoP-RF;56.20
+DNACOMP-HUMAN-KIT-PY3199-NODE_85_length_3199_cov_4.199427,98.76,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.10,iPHoP-RF;97.10 blast;90.90 RaFAH;87.50
+DNACOMP-HUMAN-KIT-PY3199-NODE_85_length_3199_cov_4.199427,98.76,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.50,blast;93.80
+DNACOMP-HUMAN-KIT-PY3199-NODE_86_length_3122_cov_3.490708,44.44,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,90.80,blast;93.20 iPHoP-RF;67.70
+DNACOMP-HUMAN-KIT-PY3199-NODE_8_length_42794_cov_39.909333,96.62,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinifilaceae;g__Odoribacter,99.00,RaFAH;99.20
+DNACOMP-HUMAN-KIT-UZ5625-NODE_100_length_3299_cov_2.007707,71.19,d__Bacteria;p__Firmicutes_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Megamonas,90.40,blast;92.90
+DNACOMP-HUMAN-KIT-UZ5625-NODE_103_length_3227_cov_2.673707,12.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA1417,93.80,CRISPR;95.60
+DNACOMP-HUMAN-KIT-UZ5625-NODE_104_length_3221_cov_3.642767,34.81,d__Bacteria;p__Firmicutes;c__Bacilli;o__RF39;f__UBA660;g__CAG-451,91.20,blast;93.60 iPHoP-RF;76.60
+DNACOMP-HUMAN-KIT-UZ5625-NODE_10_length_47027_cov_17.242421,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,99.90,RaFAH;98.70 blast;92.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_10_length_47027_cov_17.242421,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,98.20,RaFAH;98.70
+DNACOMP-HUMAN-KIT-UZ5625-NODE_112_length_3111_cov_3.170157,3.07,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA1417,90.10,CRISPR;92.60 iPHoP-RF;69.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_114_length_3096_cov_3.207169,96.15,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,RaFAH;95.00 blast;93.70 iPHoP-RF;91.80 CRISPR;61.90
+DNACOMP-HUMAN-KIT-UZ5625-NODE_115_length_3074_cov_2.253726,98.08,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,96.30,blast;97.40 iPHoP-RF;78.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_117_length_3041_cov_2.698259,9.80,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-103,92.70,blast;94.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_11_length_46405_cov_16.313916,96.24,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.70,iPHoP-RF;97.10 RaFAH;94.20 blast;93.80 CRISPR;58.90
+DNACOMP-HUMAN-KIT-UZ5625-NODE_12_length_39578_cov_46.085419,19.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170,97.90,CRISPR;98.50 blast;92.00 iPHoP-RF;87.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_13_length_36829_cov_58.056725,20.66,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.10,CRISPR;98.60 iPHoP-RF;86.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_14_length_32545_cov_83.058726,18.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.70,CRISPR;99.00 iPHoP-RF;89.20
+DNACOMP-HUMAN-KIT-UZ5625-NODE_15_length_30301_cov_25.559512,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.70 iPHoP-RF;97.10 blast;91.00 CRISPR;56.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_15_length_30301_cov_25.559512,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,94.60,blast;96.20 iPHoP-RF;93.70 CRISPR;55.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_16_length_29335_cov_434.759665,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;96.60 iPHoP-RF;95.70 blast;93.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_16_length_29335_cov_434.759665,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,95.00,blast;96.50 iPHoP-RF;70.20 CRISPR;69.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_17_length_29209_cov_243.361700,77.95,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,100.00,RaFAH;99.00 iPHoP-RF;96.70 blast;92.70
+DNACOMP-HUMAN-KIT-UZ5625-NODE_18_length_26524_cov_4.794099,19.57,d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__An2-A,90.70,blast;93.10 iPHoP-RF;72.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_19_length_23777_cov_4.792682,92.09,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,97.80,blast;93.90 RaFAH;87.00
+DNACOMP-HUMAN-KIT-UZ5625-NODE_1_length_147631_cov_14.963348,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,CRISPR;99.40 RaFAH;98.30 blast;98.30 iPHoP-RF;90.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_1_length_147631_cov_14.963348,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Massilibacteroides,98.80,CRISPR;99.10 iPHoP-RF;91.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_20_length_23169_cov_5.004413,10.09,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,93.50,blast;95.40 iPHoP-RF;93.40 CRISPR;56.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_22_length_17511_cov_7.692083,18.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,97.50,CRISPR;98.20 blast;92.10 iPHoP-RF;91.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_23_length_16993_cov_3.398512,18.14,d__Bacteria;p__Firmicutes;c__Bacilli;o__RF39;f__UBA660;g__CAG-451,91.40,blast;93.70
+DNACOMP-HUMAN-KIT-UZ5625-NODE_24_length_16232_cov_6.641899,3.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.10,blast;93.50 iPHoP-RF;85.70
+DNACOMP-HUMAN-KIT-UZ5625-NODE_28_length_13035_cov_205.037673,90.09,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,99.00,iPHoP-RF;96.70 blast;94.80 RaFAH;88.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_29_length_12941_cov_19.516607,89.01,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.20 iPHoP-RF;96.70 blast;92.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_2_length_106060_cov_11.495260,93.04,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.40 blast;93.30 iPHoP-RF;92.40
+DNACOMP-HUMAN-KIT-UZ5625-NODE_33_length_8823_cov_3.376825,6.86,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,90.70,blast;93.10 iPHoP-RF;73.20
+DNACOMP-HUMAN-KIT-UZ5625-NODE_38_length_7038_cov_3.870972,98.58,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,90.30,blast;92.80 iPHoP-RF;57.90
+DNACOMP-HUMAN-KIT-UZ5625-NODE_39_length_6847_cov_3.757656,90.47,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.30 iPHoP-RF;97.10 blast;93.40
+DNACOMP-HUMAN-KIT-UZ5625-NODE_39_length_6847_cov_3.757656,90.47,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,92.00,blast;94.20 iPHoP-RF;72.20
+DNACOMP-HUMAN-KIT-UZ5625-NODE_44_length_6075_cov_3.834718,58.56,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 iPHoP-RF;79.50
+DNACOMP-HUMAN-KIT-UZ5625-NODE_48_length_5732_cov_3.058658,98.73,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,96.00,blast;96.20 iPHoP-RF;85.70 RaFAH;63.70
+DNACOMP-HUMAN-KIT-UZ5625-NODE_50_length_5702_cov_3.883301,62.40,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,92.30,blast;94.50 iPHoP-RF;65.60
+DNACOMP-HUMAN-KIT-UZ5625-NODE_57_length_4987_cov_2.540552,40.99,d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__UBA9732,94.20,blast;95.90 iPHoP-RF;75.70
+DNACOMP-HUMAN-KIT-UZ5625-NODE_58_length_4960_cov_3.250968,86.64,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,94.30,blast;92.30 iPHoP-RF;85.70 RaFAH;73.80 CRISPR;56.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_58_length_4960_cov_3.250968,86.64,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,92.70,RaFAH;84.90 iPHoP-RF;82.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_59_length_4946_cov_4.292374,24.06,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__CAG-272,91.50,blast;93.80 iPHoP-RF;66.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_5_length_68118_cov_11.084187,99.53,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.10,RaFAH;96.50 iPHoP-RF;80.60
+DNACOMP-HUMAN-KIT-UZ5625-NODE_60_length_4832_cov_3.060708,49.71,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,90.10,blast;92.60 iPHoP-RF;74.60 CRISPR;68.40
+DNACOMP-HUMAN-KIT-UZ5625-NODE_64_length_4515_cov_3.584081,98.86,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,93.90,iPHoP-RF;95.70 blast;93.60
+DNACOMP-HUMAN-KIT-UZ5625-NODE_64_length_4515_cov_3.584081,98.86,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,91.40,blast;93.70 iPHoP-RF;83.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_66_length_4435_cov_2.384247,98.72,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,90.60,blast;93.00 iPHoP-RF;77.50
+DNACOMP-HUMAN-KIT-UZ5625-NODE_6_length_60237_cov_58.829501,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,95.30,blast;96.70
+DNACOMP-HUMAN-KIT-UZ5625-NODE_6_length_60237_cov_58.829501,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,94.60,RaFAH;85.50 blast;81.90 iPHoP-RF;64.00
+DNACOMP-HUMAN-KIT-UZ5625-NODE_71_length_4075_cov_2.823632,99.72,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;93.80 blast;92.80 iPHoP-RF;92.40
+DNACOMP-HUMAN-KIT-UZ5625-NODE_71_length_4075_cov_2.823632,99.72,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,91.40,blast;93.70 iPHoP-RF;87.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_72_length_4010_cov_3.210367,97.84,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.80 blast;92.10 iPHoP-RF;79.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_74_length_3999_cov_3.424949,98.90,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_F,91.60,blast;93.90 iPHoP-RF;57.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_76_length_3922_cov_7.529610,5.19,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,90.80,blast;93.20 iPHoP-RF;81.40 CRISPR;68.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_78_length_3875_cov_2.553927,63.03,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,RaFAH;92.60 blast;92.00 iPHoP-RF;91.80 CRISPR;81.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_7_length_59116_cov_15.037351,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira,99.00,CRISPR;98.10 blast;88.40 RaFAH;77.90 iPHoP-RF;66.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_7_length_59116_cov_15.037351,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,98.70,CRISPR;99.00 iPHoP-RF;95.70 blast;93.30
+DNACOMP-HUMAN-KIT-UZ5625-NODE_80_length_3822_cov_3.698434,7.78,d__Bacteria;p__Firmicutes;c__Bacilli;o__RF39;f__UBA660;g__CAG-451,91.60,blast;93.90
+DNACOMP-HUMAN-KIT-UZ5625-NODE_83_length_3677_cov_2.871342,99.68,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.50 blast;94.80 iPHoP-RF;94.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_83_length_3677_cov_2.871342,99.68,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,91.20,blast;93.60 iPHoP-RF;82.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_86_length_3612_cov_2.638741,65.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.80,blast;95.60 iPHoP-RF;68.00
+DNACOMP-HUMAN-KIT-UZ5625-NODE_8_length_51862_cov_598.119424,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.50 iPHoP-RF;97.10 blast;96.00
+DNACOMP-HUMAN-KIT-UZ5625-NODE_8_length_51862_cov_598.119424,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__CAG-462,95.40,CRISPR;96.80 iPHoP-RF;78.00
+DNACOMP-HUMAN-KIT-UZ5625-NODE_8_length_51862_cov_598.119424,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,95.30,CRISPR;96.70 iPHoP-RF;93.40 blast;90.80
+DNACOMP-HUMAN-KIT-UZ5625-NODE_92_length_3491_cov_2.465658,85.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter,91.50,blast;93.80 iPHoP-RF;92.10
+DNACOMP-HUMAN-KIT-UZ5625-NODE_9_length_47221_cov_7.168214,54.09,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,90.10,blast;92.60 CRISPR;67.20 iPHoP-RF;54.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_101_length_3235_cov_4.321069,28.62,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,93.50,iPHoP-RF;95.40 blast;93.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_107_length_3037_cov_3.148223,13.95,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,92.20,blast;94.40 iPHoP-RF;77.50
+DNACOMP-HUMAN-KIT-UZ5668-NODE_10_length_59296_cov_30.522341,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira,99.00,CRISPR;98.10 blast;88.40 RaFAH;77.90 iPHoP-RF;71.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_10_length_59296_cov_30.522341,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,98.70,CRISPR;99.00 iPHoP-RF;95.70 blast;93.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_11_length_57976_cov_565.065710,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.00 iPHoP-RF;97.10 blast;96.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_11_length_57976_cov_565.065710,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__CAG-462,96.70,CRISPR;97.70 iPHoP-RF;81.90
+DNACOMP-HUMAN-KIT-UZ5668-NODE_11_length_57976_cov_565.065710,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,96.00,CRISPR;97.20 blast;90.50 iPHoP-RF;89.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_11_length_57976_cov_565.065710,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.90,blast;95.70 CRISPR;70.60
+DNACOMP-HUMAN-KIT-UZ5668-NODE_12_length_50134_cov_27.817968,75.30,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.90,CRISPR;99.30 iPHoP-RF;91.40 RaFAH;86.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_12_length_50134_cov_27.817968,75.30,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Massilibacteroides,98.70,CRISPR;99.00 iPHoP-RF;90.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_13_length_47912_cov_52.773680,96.12,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.60,iPHoP-RF;96.70 blast;94.60 RaFAH;93.50 CRISPR;58.90
+DNACOMP-HUMAN-KIT-UZ5668-NODE_14_length_47128_cov_19.446158,98.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,99.70,RaFAH;98.40 blast;92.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_14_length_47128_cov_19.446158,98.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,97.80,RaFAH;98.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_15_length_40879_cov_7.420904,17.59,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,96.60,blast;97.60 CRISPR;84.40 iPHoP-RF;81.60
+DNACOMP-HUMAN-KIT-UZ5668-NODE_16_length_39623_cov_32.302795,19.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170,97.90,CRISPR;98.50 blast;92.00 iPHoP-RF;87.00
+DNACOMP-HUMAN-KIT-UZ5668-NODE_17_length_38751_cov_21.681621,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__HGM13222,91.50,blast;93.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_17_length_38751_cov_21.681621,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1394,90.00,blast;92.50 iPHoP-RF;52.20
+DNACOMP-HUMAN-KIT-UZ5668-NODE_18_length_36735_cov_61.849673,20.66,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.10,CRISPR;98.60 iPHoP-RF;72.60
+DNACOMP-HUMAN-KIT-UZ5668-NODE_1_length_121789_cov_15.586377,94.29,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,RaFAH;97.40 blast;96.10 iPHoP-RF;88.50 CRISPR;60.90
+DNACOMP-HUMAN-KIT-UZ5668-NODE_20_length_34252_cov_7.909437,18.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.10,CRISPR;93.50 iPHoP-RF;93.40 blast;92.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_21_length_32547_cov_97.142066,18.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.70,CRISPR;99.00 iPHoP-RF;91.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_22_length_30274_cov_209.663324,76.62,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,100.00,RaFAH;99.00 iPHoP-RF;96.70 blast;92.70
+DNACOMP-HUMAN-KIT-UZ5668-NODE_24_length_27054_cov_5.999074,51.23,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,91.50,blast;93.80 iPHoP-RF;58.70 CRISPR;53.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_25_length_24930_cov_5.678111,89.52,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,97.90,blast;94.40 RaFAH;87.00 iPHoP-RF;58.20
+DNACOMP-HUMAN-KIT-UZ5668-NODE_2_length_105345_cov_16.214626,97.79,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.40 blast;93.30 iPHoP-RF;93.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_32_length_13744_cov_5.350062,12.76,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,90.70,blast;93.10 iPHoP-RF;73.50
+DNACOMP-HUMAN-KIT-UZ5668-NODE_34_length_13365_cov_6.296168,60.36,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.90,blast;97.40 RaFAH;96.10 iPHoP-RF;72.80 CRISPR;57.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_35_length_12908_cov_56.983895,88.84,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.20 iPHoP-RF;96.70 blast;92.20
+DNACOMP-HUMAN-KIT-UZ5668-NODE_36_length_11509_cov_5.176096,20.38,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,95.90,blast;97.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_36_length_11509_cov_5.176096,20.38,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter,90.30,blast;92.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_38_length_11486_cov_5.428921,14.44,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,93.90,CRISPR;95.70 blast;91.50 iPHoP-RF;89.50
+DNACOMP-HUMAN-KIT-UZ5668-NODE_39_length_11255_cov_4.526964,5.66,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,90.90,blast;93.30 CRISPR;93.10 iPHoP-RF;79.50
+DNACOMP-HUMAN-KIT-UZ5668-NODE_43_length_10298_cov_4.277360,59.12,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 iPHoP-RF;66.50
+DNACOMP-HUMAN-KIT-UZ5668-NODE_44_length_9106_cov_5.278533,38.98,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.90,RaFAH;99.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_46_length_8289_cov_5.162376,37.14,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia,92.50,blast;89.90 RaFAH;73.20
+DNACOMP-HUMAN-KIT-UZ5668-NODE_48_length_7571_cov_213.895955,87.06,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,98.20,blast;94.80 iPHoP-RF;92.10 RaFAH;87.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_49_length_7365_cov_4.868536,23.94,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__CAG-272,91.50,blast;93.80 iPHoP-RF;61.90
+DNACOMP-HUMAN-KIT-UZ5668-NODE_4_length_97309_cov_20.009059,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,RaFAH;98.60 blast;98.30 CRISPR;96.80 iPHoP-RF;89.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_53_length_6062_cov_4.253870,78.19,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,99.60,CRISPR;98.20 RaFAH;88.40 iPHoP-RF;73.20
+DNACOMP-HUMAN-KIT-UZ5668-NODE_53_length_6062_cov_4.253870,78.19,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Faecalimonas,91.60,blast;93.90 iPHoP-RF;66.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_54_length_5926_cov_76.378641,86.68,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,97.80,iPHoP-RF;92.80 RaFAH;89.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_54_length_5926_cov_76.378641,86.68,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus,93.50,iPHoP-RF;95.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_56_length_5852_cov_3.303605,82.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,96.20,blast;92.20 iPHoP-RF;91.80 RaFAH;82.60 CRISPR;78.50
+DNACOMP-HUMAN-KIT-UZ5668-NODE_59_length_5613_cov_4.756027,79.94,d__Bacteria;p__Firmicutes_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Megamonas,90.90,blast;93.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_60_length_5606_cov_7.750315,8.45,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,96.20,CRISPR;97.30 blast;93.60 iPHoP-RF;90.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_62_length_5368_cov_5.520610,81.36,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.40,iPHoP-RF;93.70 blast;93.00 CRISPR;59.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_67_length_5104_cov_3.540503,41.45,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger,91.00,blast;93.40 iPHoP-RF;75.90
+DNACOMP-HUMAN-KIT-UZ5668-NODE_69_length_4885_cov_2.902899,14.37,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,91.20,blast;93.60 iPHoP-RF;72.20
+DNACOMP-HUMAN-KIT-UZ5668-NODE_71_length_4595_cov_3.566520,96.30,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.20,blast;97.40 iPHoP-RF;94.40 RaFAH;75.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_74_length_4425_cov_5.436842,5.56,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,90.40,blast;92.90 iPHoP-RF;67.50
+DNACOMP-HUMAN-KIT-UZ5668-NODE_75_length_4400_cov_4.544534,69.20,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,93.50,iPHoP-RF;95.40 blast;92.50 CRISPR;68.10
+DNACOMP-HUMAN-KIT-UZ5668-NODE_76_length_4361_cov_5.626800,19.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.30,RaFAH;99.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_76_length_4361_cov_5.626800,19.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.10,iPHoP-RF;95.10 blast;93.30 CRISPR;61.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_78_length_4236_cov_3.084669,18.84,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,90.40,blast;92.90 iPHoP-RF;85.40 CRISPR;51.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_79_length_4205_cov_5.021205,4.94,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,90.80,blast;93.20 iPHoP-RF;59.80
+DNACOMP-HUMAN-KIT-UZ5668-NODE_7_length_71190_cov_24.004372,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.40 CRISPR;98.80 iPHoP-RF;97.10 blast;94.60
+DNACOMP-HUMAN-KIT-UZ5668-NODE_7_length_71190_cov_24.004372,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,97.30,CRISPR;98.10 blast;96.60 iPHoP-RF;95.40
+DNACOMP-HUMAN-KIT-UZ5668-NODE_81_length_3970_cov_5.321328,99.18,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,90.60,blast;93.00
+DNACOMP-HUMAN-KIT-UZ5668-NODE_83_length_3870_cov_5.117693,95.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Intestinibacter,90.10,blast;92.60 iPHoP-RF;74.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_8_length_69210_cov_14.381187,99.54,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,96.00,RaFAH;96.50 iPHoP-RF;60.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_92_length_3525_cov_2.527089,85.04,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,93.00,blast;95.00 iPHoP-RF;65.30
+DNACOMP-HUMAN-KIT-UZ5668-NODE_95_length_3299_cov_4.124538,71.90,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,91.60,blast;93.90 iPHoP-RF;75.70
+DNACOMP-HUMAN-KIT-UZ5668-NODE_9_length_60218_cov_64.612469,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,95.30,blast;96.70
+DNACOMP-HUMAN-KIT-UZ5668-NODE_9_length_60218_cov_64.612469,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,94.70,RaFAH;85.50 blast;81.90 iPHoP-RF;64.30
+DNACOMP-HUMAN-KIT-UZ5681-NODE_10_length_59296_cov_22.112456,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira,99.00,CRISPR;98.10 blast;88.40 RaFAH;77.90 iPHoP-RF;70.40
+DNACOMP-HUMAN-KIT-UZ5681-NODE_10_length_59296_cov_22.112456,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,98.70,CRISPR;99.00 iPHoP-RF;96.10 blast;93.30
+DNACOMP-HUMAN-KIT-UZ5681-NODE_11_length_51862_cov_541.983786,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.50 iPHoP-RF;97.10 blast;96.00
+DNACOMP-HUMAN-KIT-UZ5681-NODE_11_length_51862_cov_541.983786,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__CAG-462,95.40,CRISPR;96.80 iPHoP-RF;78.00
+DNACOMP-HUMAN-KIT-UZ5681-NODE_11_length_51862_cov_541.983786,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,95.30,CRISPR;96.70 iPHoP-RF;93.40 blast;90.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_12_length_48389_cov_50.395146,96.24,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.70,iPHoP-RF;97.10 RaFAH;94.20 blast;93.90 CRISPR;58.90
+DNACOMP-HUMAN-KIT-UZ5681-NODE_13_length_47010_cov_17.260292,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,99.90,RaFAH;98.70 blast;92.10
+DNACOMP-HUMAN-KIT-UZ5681-NODE_13_length_47010_cov_17.260292,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,98.20,RaFAH;98.70
+DNACOMP-HUMAN-KIT-UZ5681-NODE_14_length_39625_cov_27.526611,19.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170,97.90,CRISPR;98.50 blast;92.00 iPHoP-RF;87.30
+DNACOMP-HUMAN-KIT-UZ5681-NODE_15_length_38746_cov_20.514228,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__HGM13222,91.50,blast;93.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_15_length_38746_cov_20.514228,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1394,90.00,blast;92.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_16_length_36757_cov_53.515776,20.66,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.10,CRISPR;98.60 iPHoP-RF;73.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_17_length_32791_cov_6.702957,14.21,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,92.60,CRISPR;94.70 blast;92.90 iPHoP-RF;87.60
+DNACOMP-HUMAN-KIT-UZ5681-NODE_18_length_32547_cov_106.055152,18.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.70,CRISPR;99.00 iPHoP-RF;90.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_19_length_30785_cov_7.687146,8.15,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,97.90,blast;98.50 CRISPR;86.90 iPHoP-RF;80.30
+DNACOMP-HUMAN-KIT-UZ5681-NODE_1_length_147527_cov_18.841333,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,CRISPR;99.40 RaFAH;98.30 blast;98.30 iPHoP-RF;90.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_1_length_147527_cov_18.841333,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Massilibacteroides,98.80,CRISPR;99.10 iPHoP-RF;90.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_20_length_29498_cov_394.338790,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;96.60 iPHoP-RF;96.10 blast;93.90
+DNACOMP-HUMAN-KIT-UZ5681-NODE_20_length_29498_cov_394.338790,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,94.90,blast;96.40 iPHoP-RF;72.20 CRISPR;69.30
+DNACOMP-HUMAN-KIT-UZ5681-NODE_21_length_23659_cov_4.827656,66.42,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Atlantibacter,94.30,blast;96.00
+DNACOMP-HUMAN-KIT-UZ5681-NODE_21_length_23659_cov_4.827656,66.42,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter,90.30,blast;92.80 iPHoP-RF;66.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_21_length_23659_cov_4.827656,66.42,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,90.00,blast;92.50 CRISPR;59.20 iPHoP-RF;50.40
+DNACOMP-HUMAN-KIT-UZ5681-NODE_22_length_22779_cov_181.188831,75.68,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,100.00,RaFAH;97.40 iPHoP-RF;96.40 blast;92.70
+DNACOMP-HUMAN-KIT-UZ5681-NODE_28_length_12933_cov_4.541932,22.52,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,95.90,blast;97.10
+DNACOMP-HUMAN-KIT-UZ5681-NODE_29_length_12908_cov_53.903602,88.84,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.20 iPHoP-RF;96.70 blast;92.20
+DNACOMP-HUMAN-KIT-UZ5681-NODE_2_length_107788_cov_12.579033,51.32,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,96.70,blast;94.60 iPHoP-RF;91.80 RaFAH;78.90 CRISPR;77.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_30_length_12526_cov_5.158207,92.53,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,90.80,blast;93.20
+DNACOMP-HUMAN-KIT-UZ5681-NODE_34_length_10119_cov_5.847178,14.17,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,94.20,blast;95.90 iPHoP-RF;84.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_36_length_9476_cov_5.091604,92.06,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,97.30,blast;92.40 RaFAH;87.60 iPHoP-RF;72.40 CRISPR;57.70
+DNACOMP-HUMAN-KIT-UZ5681-NODE_37_length_8919_cov_4.010830,45.78,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,91.00,iPHoP-RF;93.40 blast;89.70 CRISPR;67.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_38_length_8231_cov_4.918297,7.26,d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__An2-A,90.30,blast;92.80 iPHoP-RF;71.90
+DNACOMP-HUMAN-KIT-UZ5681-NODE_3_length_106069_cov_12.143047,92.65,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.40 blast;93.30 iPHoP-RF;93.10
+DNACOMP-HUMAN-KIT-UZ5681-NODE_44_length_7078_cov_201.692866,85.17,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,98.20,blast;94.80 iPHoP-RF;91.40 RaFAH;87.40
+DNACOMP-HUMAN-KIT-UZ5681-NODE_46_length_6974_cov_4.082815,3.34,d__Bacteria;p__Firmicutes;c__Bacilli;o__RF39;f__UBA660;g__CAG-451,90.40,blast;92.90 iPHoP-RF;52.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_47_length_6441_cov_4.357657,87.97,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,93.80,blast;92.70 RaFAH;69.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_49_length_6036_cov_7.200803,18.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.50,blast;93.80 iPHoP-RF;91.40 CRISPR;90.00
+DNACOMP-HUMAN-KIT-UZ5681-NODE_54_length_5340_cov_3.632167,38.48,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger,90.70,blast;93.10 iPHoP-RF;72.20
+DNACOMP-HUMAN-KIT-UZ5681-NODE_56_length_5238_cov_5.708470,97.65,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,94.90,CRISPR;96.40 iPHoP-RF;94.70 blast;91.20
+DNACOMP-HUMAN-KIT-UZ5681-NODE_57_length_5221_cov_3.644986,19.05,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,91.50,blast;93.80 iPHoP-RF;89.20 CRISPR;68.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_59_length_5114_cov_4.205574,79.65,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.90,blast;98.00 RaFAH;95.70 iPHoP-RF;66.00
+DNACOMP-HUMAN-KIT-UZ5681-NODE_64_length_4585_cov_3.564238,55.93,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.60,blast;95.50 iPHoP-RF;95.40 CRISPR;63.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_67_length_4367_cov_3.518785,11.40,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,90.70,blast;93.10 iPHoP-RF;62.70
+DNACOMP-HUMAN-KIT-UZ5681-NODE_69_length_4291_cov_3.761804,98.92,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Intestinibacter,90.10,blast;92.60 iPHoP-RF;78.00
+DNACOMP-HUMAN-KIT-UZ5681-NODE_70_length_4285_cov_3.734988,10.92,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 iPHoP-RF;75.20 CRISPR;51.40
+DNACOMP-HUMAN-KIT-UZ5681-NODE_72_length_4242_cov_3.709816,40.96,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia,96.70,iPHoP-RF;95.40 blast;90.10 RaFAH;75.20
+DNACOMP-HUMAN-KIT-UZ5681-NODE_72_length_4242_cov_3.709816,40.96,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,93.10,iPHoP-RF;95.10 blast;93.40 CRISPR;59.80
+DNACOMP-HUMAN-KIT-UZ5681-NODE_7_length_70304_cov_19.502441,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.40 CRISPR;98.70 iPHoP-RF;97.10 blast;91.00
+DNACOMP-HUMAN-KIT-UZ5681-NODE_7_length_70304_cov_19.502441,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,97.00,CRISPR;97.90 iPHoP-RF;96.70 blast;96.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_81_length_3647_cov_3.552617,24.37,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__CAG-272,91.60,blast;93.90 iPHoP-RF;75.90
+DNACOMP-HUMAN-KIT-UZ5681-NODE_82_length_3487_cov_4.301573,56.98,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.10,blast;93.50
+DNACOMP-HUMAN-KIT-UZ5681-NODE_82_length_3487_cov_4.301573,56.98,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,90.30,iPHoP-RF;92.80 blast;81.10
+DNACOMP-HUMAN-KIT-UZ5681-NODE_8_length_68012_cov_10.594964,99.53,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,96.20,RaFAH;96.50 iPHoP-RF;61.40
+DNACOMP-HUMAN-KIT-UZ5681-NODE_93_length_3169_cov_3.388889,42.77,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus,90.70,blast;93.10
+DNACOMP-HUMAN-KIT-UZ5681-NODE_9_length_60218_cov_52.065389,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,95.30,blast;96.70
+DNACOMP-HUMAN-KIT-UZ5681-NODE_9_length_60218_cov_52.065389,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,94.70,RaFAH;85.50 blast;81.90 iPHoP-RF;64.30
+DNACOMP-HUMAN-KIT-YM5460-NODE_101_length_4380_cov_3.622428,10.81,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,94.50,iPHoP-RF;96.10 CRISPR;95.40 blast;93.70
+DNACOMP-HUMAN-KIT-YM5460-NODE_102_length_4341_cov_8.021232,44.92,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,97.80,blast;98.40 iPHoP-RF;95.70
+DNACOMP-HUMAN-KIT-YM5460-NODE_111_length_4160_cov_3.951279,50.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,94.00,CRISPR;95.80 iPHoP-RF;93.40 blast;92.70
+DNACOMP-HUMAN-KIT-YM5460-NODE_11_length_43253_cov_100.768971,64.12,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,92.10,CRISPR;94.30 iPHoP-RF;78.70
+DNACOMP-HUMAN-KIT-YM5460-NODE_11_length_43253_cov_100.768971,64.12,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Paraprevotella,91.40,blast;93.70 iPHoP-RF;70.60
+DNACOMP-HUMAN-KIT-YM5460-NODE_122_length_3819_cov_3.482997,9.60,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,94.50,blast;96.10 iPHoP-RF;91.10
+DNACOMP-HUMAN-KIT-YM5460-NODE_124_length_3817_cov_3.521797,20.08,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,94.00,CRISPR;95.80 blast;95.70 iPHoP-RF;95.10
+DNACOMP-HUMAN-KIT-YM5460-NODE_125_length_3795_cov_3.649465,5.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,93.60,blast;95.50 iPHoP-RF;71.50
+DNACOMP-HUMAN-KIT-YM5460-NODE_128_length_3765_cov_2.656604,12.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,94.70,blast;96.30 iPHoP-RF;89.50
+DNACOMP-HUMAN-KIT-YM5460-NODE_130_length_3727_cov_2.802015,58.12,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,90.60,blast;93.00
+DNACOMP-HUMAN-KIT-YM5460-NODE_131_length_3719_cov_3.926856,10.55,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,94.50,CRISPR;96.10 blast;93.90 iPHoP-RF;85.10
+DNACOMP-HUMAN-KIT-YM5460-NODE_136_length_3571_cov_5.102673,15.35,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.50,blast;93.80 iPHoP-RF;77.50
+DNACOMP-HUMAN-KIT-YM5460-NODE_13_length_31628_cov_87.994742,22.68,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Angelakisella,91.80,blast;94.10 iPHoP-RF;71.50
+DNACOMP-HUMAN-KIT-YM5460-NODE_140_length_3452_cov_3.977039,8.79,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,93.60,blast;95.50 iPHoP-RF;93.10
+DNACOMP-HUMAN-KIT-YM5460-NODE_143_length_3391_cov_3.382194,45.60,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 iPHoP-RF;66.80
+DNACOMP-HUMAN-KIT-YM5460-NODE_147_length_3287_cov_2.964109,46.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotellamassilia,91.20,blast;93.60 iPHoP-RF;54.10
+DNACOMP-HUMAN-KIT-YM5460-NODE_148_length_3280_cov_2.843721,19.31,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__ER4,90.30,blast;92.80 iPHoP-RF;75.00
+DNACOMP-HUMAN-KIT-YM5460-NODE_149_length_3265_cov_3.566044,,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,93.50,iPHoP-RF;95.40 blast;92.70
+DNACOMP-HUMAN-KIT-YM5460-NODE_153_length_3162_cov_4.557773,23.20,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.50,blast;93.80 CRISPR;84.40 iPHoP-RF;79.30
+DNACOMP-HUMAN-KIT-YM5460-NODE_17_length_23452_cov_29.832286_fragment_1,5.22,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.00,blast;96.90 RaFAH;86.80 iPHoP-RF;84.50
+DNACOMP-HUMAN-KIT-YM5460-NODE_20_length_16256_cov_7.228690,39.13,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__ER4,90.10,blast;92.60 iPHoP-RF;72.60
+DNACOMP-HUMAN-KIT-YM5460-NODE_24_length_13651_cov_4.754854,94.97,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,97.90,iPHoP-RF;94.40 blast;92.70 RaFAH;86.40
+DNACOMP-HUMAN-KIT-YM5460-NODE_29_length_11776_cov_3.579985,83.86,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Negativibacillus,93.40,blast;95.30
+DNACOMP-HUMAN-KIT-YM5460-NODE_2_length_149112_cov_17.572331,98.74,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.30,iPHoP-RF;94.70 RaFAH;94.10 blast;91.20 CRISPR;90.00
+DNACOMP-HUMAN-KIT-YM5460-NODE_36_length_9802_cov_4.788858,75.67,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,94.50,CRISPR;96.10 blast;95.40 iPHoP-RF;94.40
+DNACOMP-HUMAN-KIT-YM5460-NODE_42_length_9052_cov_22.927087,64.76,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,95.90,iPHoP-RF;97.10 blast;96.40 CRISPR;93.00
+DNACOMP-HUMAN-KIT-YM5460-NODE_45_length_8057_cov_4.331042,24.90,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,96.40,CRISPR;97.50 iPHoP-RF;94.40 blast;93.30
+DNACOMP-HUMAN-KIT-YM5460-NODE_46_length_7888_cov_9.275118,38.35,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,93.20,blast;95.20 iPHoP-RF;71.90
+DNACOMP-HUMAN-KIT-YM5460-NODE_49_length_7689_cov_5.320540,73.95,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,97.90,CRISPR;98.50 blast;93.60 iPHoP-RF;91.10
+DNACOMP-HUMAN-KIT-YM5460-NODE_55_length_6870_cov_3.772854,84.49,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Negativibacillus,90.00,blast;92.50 iPHoP-RF;71.30
+DNACOMP-HUMAN-KIT-YM5460-NODE_5_length_60755_cov_15.186985,77.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter,99.90,CRISPR;98.90 RaFAH;90.30 iPHoP-RF;90.10 blast;89.80
+DNACOMP-HUMAN-KIT-YM5460-NODE_5_length_60755_cov_15.186985,77.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia,99.90,CRISPR;98.90 iPHoP-RF;95.70 blast;93.00 RaFAH;90.30
+DNACOMP-HUMAN-KIT-YM5460-NODE_5_length_60755_cov_15.186985,77.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__RUG115,98.20,RaFAH;90.30 blast;86.90 iPHoP-RF;74.30
+DNACOMP-HUMAN-KIT-YM5460-NODE_5_length_60755_cov_15.186985,77.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA11774,91.00,iPHoP-RF;93.40 blast;85.80
+DNACOMP-HUMAN-KIT-YM5460-NODE_62_length_6511_cov_11.059015,99.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Negativibacillus,91.60,blast;93.90
+DNACOMP-HUMAN-KIT-YM5460-NODE_68_length_6031_cov_3.674197,13.50,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,91.40,iPHoP-RF;93.70 blast;91.40
+DNACOMP-HUMAN-KIT-YM5460-NODE_72_length_5628_cov_3.730486,10.93,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,94.50,iPHoP-RF;96.10 blast;94.60 CRISPR;87.50
+DNACOMP-HUMAN-KIT-YM5460-NODE_73_length_5589_cov_3.439284,36.17,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,94.90,blast;96.40 iPHoP-RF;94.40 CRISPR;82.20
+DNACOMP-HUMAN-KIT-YM5460-NODE_83_length_5125_cov_20.578698,,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.90,iPHoP-RF;97.10 blast;95.80
+DNACOMP-HUMAN-KIT-YM5460-NODE_89_length_4809_cov_4.483593,18.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_F,91.50,blast;93.80
+DNACOMP-HUMAN-KIT-YM5460-NODE_8_length_47442_cov_13.599384,98.36,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,98.80,RaFAH;98.10 blast;76.40
+DNACOMP-HUMAN-KIT-YM5460-NODE_8_length_47442_cov_13.599384,98.36,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,97.30,RaFAH;98.10 blast;51.10
+DNACOMP-HUMAN-KIT-YM5460-NODE_90_length_4751_cov_2.958049,75.22,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.40,blast;93.70
+DNACOMP-HUMAN-KIT-YM5460-NODE_94_length_4625_cov_4.215536,88.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,93.80,CRISPR;94.20 blast;93.90 iPHoP-RF;85.10 RaFAH;61.70
+DNACOMP-HUMAN-PC-AE9678-NODE_11_length_8339_cov_5.541043,84.51,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,98.70,RaFAH;99.00
+DNACOMP-HUMAN-PC-AE9678-NODE_2_length_68404_cov_8.906114,57.04,d__Archaea;p__Methanobacteriota;c__Methanobacteria;o__Methanobacteriales;f__Methanobacteriaceae;g__Methanobrevibacter_A,93.20,blast;95.20 iPHoP-RF;64.00
+DNACOMP-HUMAN-PC-AE9678-NODE_4_length_44089_cov_14.251715,91.52,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinifilaceae;g__Odoribacter,98.40,RaFAH;98.80
+DNACOMP-HUMAN-PC-AE9678-NODE_4_length_44089_cov_14.251715,91.52,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-279,98.10,CRISPR;98.60
+DNACOMP-HUMAN-PC-AE9678-NODE_5_length_39768_cov_6.315212,88.33,d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__Catenibacterium,96.60,blast;97.60 iPHoP-RF;72.60
+DNACOMP-HUMAN-PC-AE9678-NODE_7_length_21897_cov_6.086851,84.09,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.70,RaFAH;99.70
+DNACOMP-HUMAN-PC-PY3111-NODE_10_length_40790_cov_38.527753,96.64,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinifilaceae;g__Odoribacter,98.80,RaFAH;99.10
+DNACOMP-HUMAN-PC-PY3111-NODE_1_length_110283_cov_14.285762,56.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,90.00,blast;92.50 iPHoP-RF;50.90
+DNACOMP-HUMAN-PC-PY3111-NODE_20_length_11069_cov_23.060468,5.01,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.30,CRISPR;99.40 blast;92.80 iPHoP-RF;82.80
+DNACOMP-HUMAN-PC-PY3111-NODE_29_length_6811_cov_4.982830,4.96,d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-138;g__Phil1,91.50,blast;93.80 iPHoP-RF;66.50
+DNACOMP-HUMAN-PC-PY3111-NODE_31_length_6567_cov_3.731880,13.34,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,97.80,iPHoP-RF;97.10 RaFAH;71.90
+DNACOMP-HUMAN-PC-PY3111-NODE_33_length_6342_cov_4.394147,66.61,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,97.20,iPHoP-RF;97.10 RaFAH;65.40
+DNACOMP-HUMAN-PC-PY3111-NODE_35_length_6263_cov_4.327642,3.99,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,94.90,iPHoP-RF;96.40
+DNACOMP-HUMAN-PC-PY3111-NODE_35_length_6263_cov_4.327642,3.99,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,92.20,iPHoP-RF;94.40
+DNACOMP-HUMAN-PC-PY3111-NODE_38_length_6009_cov_4.862277,5.72,d__Bacteria;p__Firmicutes_A;c__Clostridia_A;o__Christensenellales;f__CAG-138;g__Phil1,93.00,CRISPR;95.00 blast;93.90 iPHoP-RF;79.30
+DNACOMP-HUMAN-PC-PY3111-NODE_47_length_4859_cov_5.873022,95.80,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.50,iPHoP-RF;95.70 blast;93.40 RaFAH;87.50
+DNACOMP-HUMAN-PC-PY3111-NODE_48_length_4469_cov_4.081106,18.83,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio,91.50,blast;93.80 iPHoP-RF;77.30
+DNACOMP-HUMAN-PC-PY3111-NODE_54_length_3887_cov_2.769050,42.95,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,93.90,iPHoP-RF;95.70
+DNACOMP-HUMAN-PC-PY3111-NODE_5_length_78480_cov_177.613503,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,95.70,RaFAH;97.00
+DNACOMP-HUMAN-PC-PY3111-NODE_5_length_78480_cov_177.613503,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes_A,95.70,RaFAH;97.00
+DNACOMP-HUMAN-PC-PY3111-NODE_62_length_3574_cov_3.752771,22.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,92.30,iPHoP-RF;92.10 RaFAH;65.00
+DNACOMP-HUMAN-PC-PY3111-NODE_69_length_3368_cov_3.252037,,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,94.90,iPHoP-RF;96.40
+DNACOMP-HUMAN-PC-PY3111-NODE_7_length_64580_cov_219.525765,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.50,CRISPR;98.90 iPHoP-RF;95.40 blast;91.70
+DNACOMP-HUMAN-PC-PY3111-NODE_7_length_64580_cov_219.525765,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,95.40,RaFAH;96.80
+DNACOMP-HUMAN-PC-PY3111-NODE_8_length_52145_cov_9.977462,99.93,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.00 iPHoP-RF;97.10 blast;91.70
+DNACOMP-HUMAN-PC-PY3111-NODE_8_length_52145_cov_9.977462,99.93,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__CAG-462,95.20,CRISPR;96.60 iPHoP-RF;89.80
+DNACOMP-HUMAN-PC-PY3111-NODE_8_length_52145_cov_9.977462,99.93,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,94.20,blast;95.90 CRISPR;69.40 iPHoP-RF;55.20
+DNACOMP-HUMAN-PC-PY3111-NODE_8_length_52145_cov_9.977462,99.93,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,92.60,CRISPR;94.70 iPHoP-RF;94.70 blast;91.20
+DNACOMP-HUMAN-PC-PY3199-NODE_10_length_20841_cov_149.357308,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.80,RaFAH;99.10
+DNACOMP-HUMAN-PC-PY3199-NODE_10_length_20841_cov_149.357308,10.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,93.50,iPHoP-RF;95.40 blast;91.70 CRISPR;71.90
+DNACOMP-HUMAN-PC-PY3199-NODE_13_length_16155_cov_7.524037,4.67,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,92.60,iPHoP-RF;94.70
+DNACOMP-HUMAN-PC-PY3199-NODE_19_length_11069_cov_14.497639,5.01,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.30,CRISPR;99.40 blast;92.80 iPHoP-RF;82.80
+DNACOMP-HUMAN-PC-PY3199-NODE_24_length_10046_cov_6.367130,2.80,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Yersinia,95.30,iPHoP-RF;96.70
+DNACOMP-HUMAN-PC-PY3199-NODE_24_length_10046_cov_6.367130,2.80,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Photorhabdus,93.10,iPHoP-RF;95.10
+DNACOMP-HUMAN-PC-PY3199-NODE_2_length_78481_cov_143.427575,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,95.70,RaFAH;97.00
+DNACOMP-HUMAN-PC-PY3199-NODE_2_length_78481_cov_143.427575,74.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes_A,95.70,RaFAH;97.00
+DNACOMP-HUMAN-PC-PY3199-NODE_3_length_75196_cov_11.632038,56.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,90.00,blast;92.50
+DNACOMP-HUMAN-PC-PY3199-NODE_45_length_4763_cov_3.433730,87.28,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,97.00,iPHoP-RF;97.10 RaFAH;64.30
+DNACOMP-HUMAN-PC-PY3199-NODE_50_length_4323_cov_3.734302,54.93,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,94.90,iPHoP-RF;96.40 CRISPR;95.80 blast;93.00
+DNACOMP-HUMAN-PC-PY3199-NODE_56_length_3668_cov_3.500415,10.35,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.50 iPHoP-RF;87.60
+DNACOMP-HUMAN-PC-PY3199-NODE_58_length_3523_cov_2.610727,22.14,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Coprobacteraceae;g__Coprobacter,90.70,blast;93.10 iPHoP-RF;85.10 CRISPR;79.80
+DNACOMP-HUMAN-PC-PY3199-NODE_5_length_42771_cov_161.182180,7.61,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.20,CRISPR;98.70 iPHoP-RF;59.00
+DNACOMP-HUMAN-PC-PY3199-NODE_63_length_3207_cov_2.417830,7.40,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Dysgonomonadaceae;g__Dysgonomonas,95.30,iPHoP-RF;96.70
+DNACOMP-HUMAN-PC-PY3199-NODE_6_length_41890_cov_23.346002,96.62,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Marinifilaceae;g__Odoribacter,99.00,RaFAH;99.20
+DNACOMP-HUMAN-PC-PY3199-NODE_9_length_32289_cov_8.497053,99.71,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.30 iPHoP-RF;97.10 blast;91.70
+DNACOMP-HUMAN-PC-UZ5625-NODE_10_length_36511_cov_34.729372,20.66,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.10,CRISPR;98.60 iPHoP-RF;88.90
+DNACOMP-HUMAN-PC-UZ5625-NODE_11_length_33680_cov_13.133502,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,98.50,CRISPR;98.90 iPHoP-RF;95.40 blast;93.20
+DNACOMP-HUMAN-PC-UZ5625-NODE_12_length_32545_cov_54.730809,18.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.70,CRISPR;99.00 iPHoP-RF;92.10
+DNACOMP-HUMAN-PC-UZ5625-NODE_13_length_27079_cov_16.964809,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.20 iPHoP-RF;97.10 blast;91.60 CRISPR;67.30
+DNACOMP-HUMAN-PC-UZ5625-NODE_13_length_27079_cov_16.964809,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,94.90,blast;96.40 iPHoP-RF;93.70 CRISPR;71.50
+DNACOMP-HUMAN-PC-UZ5625-NODE_14_length_26930_cov_115.056781,76.97,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,99.60,iPHoP-RF;96.10 RaFAH;94.80 blast;92.70
+DNACOMP-HUMAN-PC-UZ5625-NODE_15_length_25881_cov_5.273136,99.29,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,94.50,RaFAH;96.10
+DNACOMP-HUMAN-PC-UZ5625-NODE_16_length_20354_cov_4.887778,22.53,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter,90.20,blast;90.90 iPHoP-RF;65.30 RaFAH;60.10
+DNACOMP-HUMAN-PC-UZ5625-NODE_17_length_20231_cov_11.438392,96.12,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.10 iPHoP-RF;97.10 blast;92.80 CRISPR;54.30
+DNACOMP-HUMAN-PC-UZ5625-NODE_18_length_18380_cov_96.195798,80.70,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,97.60,blast;92.50 RaFAH;88.90 iPHoP-RF;88.90
+DNACOMP-HUMAN-PC-UZ5625-NODE_1_length_147325_cov_8.339784,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,CRISPR;99.40 RaFAH;98.30 blast;98.20 iPHoP-RF;91.40
+DNACOMP-HUMAN-PC-UZ5625-NODE_1_length_147325_cov_8.339784,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Massilibacteroides,98.80,CRISPR;99.10 iPHoP-RF;91.80
+DNACOMP-HUMAN-PC-UZ5625-NODE_21_length_14677_cov_5.279305,72.92,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Atlantibacter,94.20,blast;95.90 iPHoP-RF;61.70
+DNACOMP-HUMAN-PC-UZ5625-NODE_21_length_14677_cov_5.279305,72.92,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter,90.60,blast;93.00 iPHoP-RF;74.80
+DNACOMP-HUMAN-PC-UZ5625-NODE_25_length_9261_cov_5.499566,27.68,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira,98.50,CRISPR;98.90 blast;85.00 iPHoP-RF;77.10
+DNACOMP-HUMAN-PC-UZ5625-NODE_25_length_9261_cov_5.499566,27.68,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter,96.90,CRISPR;97.00 blast;80.80 RaFAH;63.90
+DNACOMP-HUMAN-PC-UZ5625-NODE_26_length_9244_cov_4.793993,7.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,94.60,CRISPR;96.20 blast;93.60 iPHoP-RF;92.40
+DNACOMP-HUMAN-PC-UZ5625-NODE_30_length_6599_cov_3.628362,80.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,90.60,blast;93.00 iPHoP-RF;50.70
+DNACOMP-HUMAN-PC-UZ5625-NODE_38_length_4967_cov_4.153705,9.68,d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__An2-A,90.30,blast;92.80 iPHoP-RF;70.20
+DNACOMP-HUMAN-PC-UZ5625-NODE_39_length_4910_cov_3.915345,12.63,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.50,blast;93.80 iPHoP-RF;92.80 CRISPR;69.30
+DNACOMP-HUMAN-PC-UZ5625-NODE_3_length_88693_cov_6.404341,92.36,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.50 blast;93.30 iPHoP-RF;89.50
+DNACOMP-HUMAN-PC-UZ5625-NODE_41_length_4885_cov_2.991304,99.48,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.30,iPHoP-RF;97.10 blast;94.00 RaFAH;89.10
+DNACOMP-HUMAN-PC-UZ5625-NODE_41_length_4885_cov_2.991304,99.48,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,91.20,blast;93.60 iPHoP-RF;91.40
+DNACOMP-HUMAN-PC-UZ5625-NODE_48_length_4223_cov_3.129079,15.53,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,92.30,blast;94.50 iPHoP-RF;60.60
+DNACOMP-HUMAN-PC-UZ5625-NODE_49_length_4053_cov_3.291896,13.54,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,90.60,blast;93.00 iPHoP-RF;61.40
+DNACOMP-HUMAN-PC-UZ5625-NODE_4_length_60324_cov_36.456238,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,95.30,blast;96.70
+DNACOMP-HUMAN-PC-UZ5625-NODE_4_length_60324_cov_36.456238,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,94.70,RaFAH;85.50 blast;81.90 iPHoP-RF;64.30
+DNACOMP-HUMAN-PC-UZ5625-NODE_50_length_4035_cov_2.735176,98.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,94.50,blast;92.90 RaFAH;72.50 iPHoP-RF;57.90
+DNACOMP-HUMAN-PC-UZ5625-NODE_51_length_4016_cov_3.918960,5.80,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 iPHoP-RF;92.10 CRISPR;50.80
+DNACOMP-HUMAN-PC-UZ5625-NODE_53_length_3752_cov_3.345956,5.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,90.80,blast;93.20 iPHoP-RF;67.70
+DNACOMP-HUMAN-PC-UZ5625-NODE_5_length_58058_cov_444.790890,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.00 iPHoP-RF;97.10 blast;96.30
+DNACOMP-HUMAN-PC-UZ5625-NODE_5_length_58058_cov_444.790890,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__CAG-462,96.70,CRISPR;97.70 iPHoP-RF;85.40
+DNACOMP-HUMAN-PC-UZ5625-NODE_5_length_58058_cov_444.790890,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,96.00,CRISPR;97.20 iPHoP-RF;94.70 blast;90.50
+DNACOMP-HUMAN-PC-UZ5625-NODE_5_length_58058_cov_444.790890,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.90,blast;95.70 CRISPR;70.60
+DNACOMP-HUMAN-PC-UZ5625-NODE_6_length_47027_cov_12.985417,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,99.90,RaFAH;98.70 blast;92.10
+DNACOMP-HUMAN-PC-UZ5625-NODE_6_length_47027_cov_12.985417,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,98.20,RaFAH;98.70
+DNACOMP-HUMAN-PC-UZ5625-NODE_7_length_40461_cov_10.740831,67.51,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.60 iPHoP-RF;94.70 blast;93.60
+DNACOMP-HUMAN-PC-UZ5625-NODE_8_length_39652_cov_31.848145,19.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170,97.90,CRISPR;98.50 blast;92.00 iPHoP-RF;87.60
+DNACOMP-HUMAN-PC-UZ5668-NODE_101_length_3347_cov_3.440158,39.95,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,90.10,RaFAH;87.00 iPHoP-RF;71.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_102_length_3273_cov_3.727781,37.20,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,90.60,blast;93.00 iPHoP-RF;60.90
+DNACOMP-HUMAN-PC-UZ5668-NODE_104_length_3080_cov_3.658512,38.66,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger,90.70,blast;93.10 iPHoP-RF;58.40
+DNACOMP-HUMAN-PC-UZ5668-NODE_105_length_3059_cov_3.435752,93.98,d__Bacteria;p__Firmicutes_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Megamonas,90.40,blast;92.90 iPHoP-RF;61.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_10_length_59296_cov_29.904964,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira,99.00,CRISPR;98.10 blast;88.40 RaFAH;77.90 iPHoP-RF;70.20
+DNACOMP-HUMAN-PC-UZ5668-NODE_10_length_59296_cov_29.904964,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,98.70,CRISPR;99.00 iPHoP-RF;95.70 blast;93.30
+DNACOMP-HUMAN-PC-UZ5668-NODE_11_length_58058_cov_635.284209,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.00 iPHoP-RF;97.10 blast;96.30
+DNACOMP-HUMAN-PC-UZ5668-NODE_11_length_58058_cov_635.284209,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__CAG-462,96.70,CRISPR;97.70 iPHoP-RF;85.40
+DNACOMP-HUMAN-PC-UZ5668-NODE_11_length_58058_cov_635.284209,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,96.00,CRISPR;97.20 iPHoP-RF;94.70 blast;90.50
+DNACOMP-HUMAN-PC-UZ5668-NODE_11_length_58058_cov_635.284209,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.90,blast;95.70 CRISPR;70.60
+DNACOMP-HUMAN-PC-UZ5668-NODE_12_length_48668_cov_57.309691,96.24,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.70,iPHoP-RF;97.10 RaFAH;94.50 blast;93.90 CRISPR;58.90
+DNACOMP-HUMAN-PC-UZ5668-NODE_14_length_47009_cov_15.440665,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,99.90,RaFAH;98.70 blast;92.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_14_length_47009_cov_15.440665,97.75,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,98.20,RaFAH;98.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_15_length_39553_cov_28.752620,19.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170,97.90,CRISPR;98.50 blast;92.00 iPHoP-RF;87.90
+DNACOMP-HUMAN-PC-UZ5668-NODE_16_length_38752_cov_19.809779,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__HGM13222,91.50,blast;93.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_16_length_38752_cov_19.809779,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1394,90.00,blast;92.50
+DNACOMP-HUMAN-PC-UZ5668-NODE_17_length_36701_cov_49.406975,20.66,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.10,CRISPR;98.60 iPHoP-RF;85.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_18_length_32546_cov_95.562279,18.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.70,CRISPR;99.00 iPHoP-RF;91.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_19_length_32400_cov_7.459329,17.64,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,97.80,blast;98.40 iPHoP-RF;80.60 CRISPR;56.40
+DNACOMP-HUMAN-PC-UZ5668-NODE_1_length_152558_cov_12.153846,94.40,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,RaFAH;97.70 CRISPR;96.00 blast;95.10 iPHoP-RF;91.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_20_length_21638_cov_139.937775,74.47,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,99.10,iPHoP-RF;95.70 blast;92.70 RaFAH;91.90
+DNACOMP-HUMAN-PC-UZ5668-NODE_23_length_20449_cov_5.295381,85.51,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.70,blast;94.00 iPHoP-RF;53.60
+DNACOMP-HUMAN-PC-UZ5668-NODE_29_length_12908_cov_63.036256,88.84,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.20 iPHoP-RF;97.10 blast;92.20
+DNACOMP-HUMAN-PC-UZ5668-NODE_2_length_147430_cov_21.233092,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,CRISPR;99.40 RaFAH;98.30 blast;98.20 iPHoP-RF;91.40
+DNACOMP-HUMAN-PC-UZ5668-NODE_2_length_147430_cov_21.233092,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Massilibacteroides,98.80,CRISPR;99.10 iPHoP-RF;92.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_30_length_12738_cov_4.417567,79.45,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,96.60,blast;94.40 RaFAH;78.40 iPHoP-RF;71.90
+DNACOMP-HUMAN-PC-UZ5668-NODE_31_length_12576_cov_158.896733,89.60,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,98.40,blast;94.80 RaFAH;88.30 iPHoP-RF;82.20
+DNACOMP-HUMAN-PC-UZ5668-NODE_33_length_9980_cov_4.636373,71.89,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Atlantibacter,95.00,blast;96.50 iPHoP-RF;59.00
+DNACOMP-HUMAN-PC-UZ5668-NODE_33_length_9980_cov_4.636373,71.89,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter,91.40,blast;93.70 iPHoP-RF;59.50
+DNACOMP-HUMAN-PC-UZ5668-NODE_34_length_9890_cov_6.797661,3.54,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 iPHoP-RF;86.30 CRISPR;71.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_35_length_9773_cov_4.916444,29.61,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter,91.60,blast;93.90 iPHoP-RF;77.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_35_length_9773_cov_4.916444,29.61,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,91.00,blast;93.40 iPHoP-RF;68.00
+DNACOMP-HUMAN-PC-UZ5668-NODE_36_length_9248_cov_4.014685,18.10,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,90.20,blast;92.70 iPHoP-RF;87.00 CRISPR;69.30
+DNACOMP-HUMAN-PC-UZ5668-NODE_37_length_8437_cov_6.106776,3.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,91.20,blast;93.60 iPHoP-RF;89.20
+DNACOMP-HUMAN-PC-UZ5668-NODE_39_length_7965_cov_3.728824,6.15,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,93.10,iPHoP-RF;95.10 blast;92.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_3_length_105587_cov_15.240638,97.43,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.40 blast;93.30 iPHoP-RF;93.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_3_length_105587_cov_15.240638,97.43,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium,90.70,iPHoP-RF;93.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_44_length_7291_cov_4.056661,3.00,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium,90.40,blast;92.90 iPHoP-RF;68.40
+DNACOMP-HUMAN-PC-UZ5668-NODE_46_length_7253_cov_4.294804,38.97,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,92.20,iPHoP-RF;94.40 blast;90.90 CRISPR;67.50
+DNACOMP-HUMAN-PC-UZ5668-NODE_48_length_7003_cov_5.135291,9.12,d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__An2-A,90.30,blast;92.80 iPHoP-RF;65.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_51_length_6607_cov_4.139499,22.68,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,97.90,blast;98.50 iPHoP-RF;84.20
+DNACOMP-HUMAN-PC-UZ5668-NODE_55_length_5849_cov_3.497756,4.17,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,90.80,blast;93.20 iPHoP-RF;73.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_59_length_5455_cov_3.534630,85.03,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A,92.60,blast;93.30 iPHoP-RF;83.10 CRISPR;66.00 RaFAH;60.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_60_length_5408_cov_3.844200,29.88,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__CAG-272,90.90,blast;93.30 iPHoP-RF;71.90
+DNACOMP-HUMAN-PC-UZ5668-NODE_63_length_5276_cov_3.157633,35.04,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__CAG-272;g__CAG-272,90.40,blast;92.90 iPHoP-RF;50.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_65_length_5177_cov_4.997071,8.87,d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__An2-A,91.20,blast;93.60 iPHoP-RF;59.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_66_length_5124_cov_4.736240,99.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,90.80,blast;93.20 iPHoP-RF;65.60
+DNACOMP-HUMAN-PC-UZ5668-NODE_69_length_4991_cov_4.105551,44.48,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,91.60,blast;93.90 iPHoP-RF;78.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_72_length_4779_cov_6.620449,18.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.50,blast;93.80 iPHoP-RF;88.50 CRISPR;87.30
+DNACOMP-HUMAN-PC-UZ5668-NODE_73_length_4680_cov_4.135351,33.11,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter,96.20,blast;90.90 RaFAH;84.90
+DNACOMP-HUMAN-PC-UZ5668-NODE_73_length_4680_cov_4.135351,33.11,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,90.00,blast;92.50
+DNACOMP-HUMAN-PC-UZ5668-NODE_74_length_4651_cov_3.938207,24.18,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium,90.40,blast;92.90 iPHoP-RF;59.00
+DNACOMP-HUMAN-PC-UZ5668-NODE_78_length_4196_cov_4.553972,38.38,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.90,RaFAH;99.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_78_length_4196_cov_4.553972,38.38,d__Bacteria;p__Firmicutes;c__Bacilli;o__RF39;f__UBA660;g__CAG-451,93.60,blast;95.50 iPHoP-RF;57.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_79_length_4078_cov_3.567238,98.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,97.00,blast;93.20 iPHoP-RF;84.80 RaFAH;84.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_7_length_70303_cov_23.928937,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.40 CRISPR;98.70 iPHoP-RF;97.10 blast;91.00
+DNACOMP-HUMAN-PC-UZ5668-NODE_7_length_70303_cov_23.928937,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,97.00,CRISPR;97.90 blast;96.50 iPHoP-RF;95.40
+DNACOMP-HUMAN-PC-UZ5668-NODE_81_length_4020_cov_4.175284,66.58,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__VSOB01,95.30,CRISPR;96.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_81_length_4020_cov_4.175284,66.58,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Faecalimonas,91.60,blast;93.90 iPHoP-RF;54.60
+DNACOMP-HUMAN-PC-UZ5668-NODE_84_length_3979_cov_3.875382,4.94,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,90.80,blast;93.20 iPHoP-RF;63.30
+DNACOMP-HUMAN-PC-UZ5668-NODE_85_length_3882_cov_3.574340,48.10,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Limosilactobacillus,93.00,blast;95.00 iPHoP-RF;62.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_88_length_3757_cov_2.559697,98.98,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Fusicatenibacter,90.90,blast;93.30 iPHoP-RF;61.10
+DNACOMP-HUMAN-PC-UZ5668-NODE_89_length_3662_cov_3.377322,7.70,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium,90.60,blast;93.00 iPHoP-RF;53.00
+DNACOMP-HUMAN-PC-UZ5668-NODE_8_length_67797_cov_13.083080,99.54,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,96.60,RaFAH;96.50 iPHoP-RF;65.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_92_length_3629_cov_2.965305,86.21,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,94.50,iPHoP-RF;96.10 blast;93.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_93_length_3598_cov_3.011008,97.35,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,97.00,RaFAH;91.40 blast;87.80
+DNACOMP-HUMAN-PC-UZ5668-NODE_93_length_3598_cov_3.011008,97.35,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,95.00,blast;96.50 iPHoP-RF;87.60
+DNACOMP-HUMAN-PC-UZ5668-NODE_95_length_3519_cov_2.432448,95.26,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E,91.40,blast;93.70 iPHoP-RF;79.50
+DNACOMP-HUMAN-PC-UZ5668-NODE_96_length_3508_cov_2.934550,49.29,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E,91.80,blast;94.10 CRISPR;68.10 iPHoP-RF;66.50
+DNACOMP-HUMAN-PC-UZ5668-NODE_9_length_60214_cov_61.644675,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,95.30,blast;96.70
+DNACOMP-HUMAN-PC-UZ5668-NODE_9_length_60214_cov_61.644675,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,94.70,RaFAH;85.50 blast;81.90 iPHoP-RF;64.30
+DNACOMP-HUMAN-PC-UZ5681-NODE_102_length_3007_cov_4.398374,6.70,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium,92.50,blast;94.60 iPHoP-RF;68.20
+DNACOMP-HUMAN-PC-UZ5681-NODE_10_length_57900_cov_558.127479,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.00 iPHoP-RF;97.10 blast;96.30
+DNACOMP-HUMAN-PC-UZ5681-NODE_10_length_57900_cov_558.127479,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__CAG-462,96.70,CRISPR;97.70 iPHoP-RF;81.90
+DNACOMP-HUMAN-PC-UZ5681-NODE_10_length_57900_cov_558.127479,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,96.00,CRISPR;97.20 blast;90.50 iPHoP-RF;89.50
+DNACOMP-HUMAN-PC-UZ5681-NODE_10_length_57900_cov_558.127479,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.90,blast;95.70 CRISPR;70.60
+DNACOMP-HUMAN-PC-UZ5681-NODE_11_length_48097_cov_62.711919,96.24,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.60,iPHoP-RF;96.70 blast;94.60 RaFAH;94.20 CRISPR;58.90
+DNACOMP-HUMAN-PC-UZ5681-NODE_12_length_47128_cov_12.214220,98.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,99.90,RaFAH;98.60 blast;92.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_12_length_47128_cov_12.214220,98.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,98.10,RaFAH;98.60
+DNACOMP-HUMAN-PC-UZ5681-NODE_14_length_39758_cov_22.014105,19.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-170,97.90,CRISPR;98.50 blast;92.00 iPHoP-RF;85.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_15_length_38753_cov_18.850225,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__HGM13222,91.50,blast;93.80
+DNACOMP-HUMAN-PC-UZ5681-NODE_15_length_38753_cov_18.850225,15.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1394,90.00,blast;92.50
+DNACOMP-HUMAN-PC-UZ5681-NODE_16_length_38122_cov_6.585441,13.20,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,97.80,blast;98.40 CRISPR;86.90 iPHoP-RF;78.30
+DNACOMP-HUMAN-PC-UZ5681-NODE_17_length_36949_cov_46.614951,20.66,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes,98.10,CRISPR;98.60 iPHoP-RF;74.60
+DNACOMP-HUMAN-PC-UZ5681-NODE_18_length_34175_cov_10.935903,99.54,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,94.90,RaFAH;96.40
+DNACOMP-HUMAN-PC-UZ5681-NODE_19_length_32545_cov_98.275962,18.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.70,CRISPR;99.00 iPHoP-RF;89.20
+DNACOMP-HUMAN-PC-UZ5681-NODE_1_length_147180_cov_21.840802,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,100.00,CRISPR;99.40 RaFAH;98.30 blast;98.20 iPHoP-RF;92.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_1_length_147180_cov_21.840802,89.45,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Massilibacteroides,98.80,CRISPR;99.10 iPHoP-RF;92.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_20_length_27781_cov_4.688632,33.11,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,99.70,RaFAH;99.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_21_length_26465_cov_230.463499,77.86,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,100.00,RaFAH;94.80 blast;92.70 iPHoP-RF;92.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_24_length_15747_cov_5.547795,3.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.10,blast;93.50 iPHoP-RF;82.80
+DNACOMP-HUMAN-PC-UZ5681-NODE_25_length_14467_cov_4.906883,89.66,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,90.80,blast;93.20 iPHoP-RF;67.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_28_length_12908_cov_69.191084,88.84,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.20 iPHoP-RF;96.40 blast;92.20
+DNACOMP-HUMAN-PC-UZ5681-NODE_29_length_12840_cov_4.411420,76.67,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Atlantibacter,94.20,blast;95.90 iPHoP-RF;77.80
+DNACOMP-HUMAN-PC-UZ5681-NODE_29_length_12840_cov_4.411420,76.67,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Cronobacter,91.00,blast;93.40 iPHoP-RF;82.50
+DNACOMP-HUMAN-PC-UZ5681-NODE_2_length_140573_cov_11.433717,97.43,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.40 blast;93.30 iPHoP-RF;85.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_30_length_12598_cov_204.335008,90.47,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,98.40,blast;94.80 iPHoP-RF;93.10 RaFAH;88.30
+DNACOMP-HUMAN-PC-UZ5681-NODE_32_length_11707_cov_5.020254,43.35,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter,91.20,blast;93.60 iPHoP-RF;70.60
+DNACOMP-HUMAN-PC-UZ5681-NODE_32_length_11707_cov_5.020254,43.35,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,90.80,blast;93.20 iPHoP-RF;67.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_33_length_11141_cov_6.263305,18.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,95.60,CRISPR;96.90 blast;93.20 iPHoP-RF;91.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_34_length_11103_cov_4.369931,20.38,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kosakonia,95.00,blast;96.50 iPHoP-RF;59.00
+DNACOMP-HUMAN-PC-UZ5681-NODE_34_length_11103_cov_4.369931,20.38,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter,90.80,blast;93.20
+DNACOMP-HUMAN-PC-UZ5681-NODE_35_length_10495_cov_3.420115,9.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-110,90.70,blast;93.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_38_length_9472_cov_3.837953,5.76,d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__An2-A,90.40,blast;92.90 iPHoP-RF;73.90
+DNACOMP-HUMAN-PC-UZ5681-NODE_39_length_8911_cov_3.302168,7.45,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 CRISPR;89.00 iPHoP-RF;79.50
+DNACOMP-HUMAN-PC-UZ5681-NODE_46_length_7454_cov_3.601297,61.13,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.60,blast;93.90 iPHoP-RF;56.50
+DNACOMP-HUMAN-PC-UZ5681-NODE_47_length_7395_cov_4.807357,3.51,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium,90.10,blast;92.60 iPHoP-RF;52.50
+DNACOMP-HUMAN-PC-UZ5681-NODE_48_length_6945_cov_59.080842,90.27,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus,94.90,iPHoP-RF;96.40
+DNACOMP-HUMAN-PC-UZ5681-NODE_48_length_6945_cov_59.080842,90.27,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,93.50,RaFAH;89.10 iPHoP-RF;79.00
+DNACOMP-HUMAN-PC-UZ5681-NODE_49_length_6881_cov_4.272048,97.74,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,96.20,CRISPR;97.30 iPHoP-RF;95.10 blast;93.00
+DNACOMP-HUMAN-PC-UZ5681-NODE_51_length_6440_cov_5.185278,6.67,d__Bacteria;p__Firmicutes;c__Bacilli;o__RF39;f__UBA660;g__CAG-451,93.50,blast;95.40 iPHoP-RF;80.80
+DNACOMP-HUMAN-PC-UZ5681-NODE_53_length_6354_cov_4.438959,81.21,d__Bacteria;p__Firmicutes_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Megamonas,90.80,blast;93.20
+DNACOMP-HUMAN-PC-UZ5681-NODE_54_length_6234_cov_5.242272,90.65,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,92.00,blast;94.20 iPHoP-RF;90.50 CRISPR;74.90
+DNACOMP-HUMAN-PC-UZ5681-NODE_55_length_6189_cov_4.214216,98.15,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,96.70,RaFAH;93.20 iPHoP-RF;83.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_55_length_6189_cov_4.214216,98.15,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,93.00,blast;95.00 iPHoP-RF;71.10 CRISPR;64.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_5_length_100186_cov_15.102965,50.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.60,blast;98.90 iPHoP-RF;89.20 RaFAH;80.50 CRISPR;65.10
+DNACOMP-HUMAN-PC-UZ5681-NODE_63_length_5522_cov_3.811048,45.88,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,92.20,iPHoP-RF;91.80 RaFAH;66.00
+DNACOMP-HUMAN-PC-UZ5681-NODE_63_length_5522_cov_3.811048,45.88,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,90.30,blast;92.80 iPHoP-RF;69.80 CRISPR;68.40
+DNACOMP-HUMAN-PC-UZ5681-NODE_70_length_4489_cov_3.728011,65.41,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,98.50,blast;92.80 iPHoP-RF;92.80 RaFAH;92.60 CRISPR;75.00
+DNACOMP-HUMAN-PC-UZ5681-NODE_75_length_4352_cov_4.662323,86.03,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,93.60,RaFAH;86.40 iPHoP-RF;83.60
+DNACOMP-HUMAN-PC-UZ5681-NODE_78_length_4256_cov_4.013568,15.58,d__Bacteria;p__Actinobacteriota;c__Coriobacteriia;o__Coriobacteriales;f__Coriobacteriaceae;g__An7,90.00,blast;92.50 iPHoP-RF;61.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_7_length_70302_cov_19.754808,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.40 CRISPR;98.70 iPHoP-RF;97.10 blast;91.00
+DNACOMP-HUMAN-PC-UZ5681-NODE_7_length_70302_cov_19.754808,99.92,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,97.00,CRISPR;97.90 blast;96.70 iPHoP-RF;95.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_87_length_3655_cov_3.081111,38.78,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Gemmiger,96.60,blast;97.60 iPHoP-RF;73.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_88_length_3623_cov_3.496637,16.83,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Bariatricus,92.20,iPHoP-RF;94.40
+DNACOMP-HUMAN-PC-UZ5681-NODE_8_length_60211_cov_51.373562,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Mediterraneibacter,95.30,blast;96.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_8_length_60211_cov_51.373562,97.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,94.70,RaFAH;85.50 blast;81.90 iPHoP-RF;64.30
+DNACOMP-HUMAN-PC-UZ5681-NODE_91_length_3518_cov_4.624314,6.87,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium,90.20,blast;92.70 iPHoP-RF;56.80
+DNACOMP-HUMAN-PC-UZ5681-NODE_92_length_3494_cov_3.911021,83.33,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.30,RaFAH;99.30 iPHoP-RF;59.20
+DNACOMP-HUMAN-PC-UZ5681-NODE_92_length_3494_cov_3.911021,83.33,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,94.50,iPHoP-RF;96.10 blast;92.30
+DNACOMP-HUMAN-PC-UZ5681-NODE_93_length_3456_cov_3.566598,85.58,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.70,blast;97.10 RaFAH;95.40 iPHoP-RF;80.80
+DNACOMP-HUMAN-PC-UZ5681-NODE_94_length_3328_cov_4.543233,8.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,91.60,blast;93.90 iPHoP-RF;55.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_95_length_3303_cov_2.636084,99.34,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.80 iPHoP-RF;93.40 blast;91.80
+DNACOMP-HUMAN-PC-UZ5681-NODE_97_length_3121_cov_5.319309,30.43,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter,97.30,blast;93.90 RaFAH;84.70 iPHoP-RF;71.70
+DNACOMP-HUMAN-PC-UZ5681-NODE_9_length_59296_cov_23.126450,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira,99.00,CRISPR;98.10 blast;88.40 RaFAH;77.90 iPHoP-RF;71.30
+DNACOMP-HUMAN-PC-UZ5681-NODE_9_length_59296_cov_23.126450,40.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,98.70,CRISPR;99.00 iPHoP-RF;96.10 blast;93.30
+DNACOMP-HUMAN-PC-YM5460-NODE_100_length_3726_cov_2.979842,18.10,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.00,blast;96.50 iPHoP-RF;89.50
+DNACOMP-HUMAN-PC-YM5460-NODE_117_length_3330_cov_3.384122,10.61,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,93.10,blast;95.10 iPHoP-RF;93.70 CRISPR;70.80
+DNACOMP-HUMAN-PC-YM5460-NODE_11_length_43253_cov_93.303903,64.12,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,92.10,CRISPR;94.30 iPHoP-RF;77.50
+DNACOMP-HUMAN-PC-YM5460-NODE_11_length_43253_cov_93.303903,64.12,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Paraprevotella,91.40,blast;93.70 iPHoP-RF;70.90
+DNACOMP-HUMAN-PC-YM5460-NODE_127_length_3206_cov_3.003808,49.45,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,91.40,blast;93.70 iPHoP-RF;90.50
+DNACOMP-HUMAN-PC-YM5460-NODE_136_length_3070_cov_3.240464,6.77,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,92.60,iPHoP-RF;94.70 blast;94.20 CRISPR;72.50
+DNACOMP-HUMAN-PC-YM5460-NODE_13_length_31832_cov_94.151525,22.68,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Angelakisella,91.80,blast;94.10 iPHoP-RF;70.00
+DNACOMP-HUMAN-PC-YM5460-NODE_14_length_28964_cov_6.024387,56.41,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E,90.30,RaFAH;92.80
+DNACOMP-HUMAN-PC-YM5460-NODE_14_length_28964_cov_6.024387,56.41,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus_D,90.30,RaFAH;92.80
+DNACOMP-HUMAN-PC-YM5460-NODE_19_length_17723_cov_6.291940,5.03,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,97.80,blast;98.40 iPHoP-RF;84.20 CRISPR;60.60
+DNACOMP-HUMAN-PC-YM5460-NODE_1_length_149299_cov_19.695023,98.74,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,99.30,iPHoP-RF;94.70 RaFAH;94.10 blast;91.20 CRISPR;90.00
+DNACOMP-HUMAN-PC-YM5460-NODE_21_length_16054_cov_22.455216,5.32,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.60,blast;96.90 iPHoP-RF;90.10
+DNACOMP-HUMAN-PC-YM5460-NODE_23_length_15369_cov_9.716730,70.21,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,95.00,blast;96.50 iPHoP-RF;96.10 CRISPR;95.60
+DNACOMP-HUMAN-PC-YM5460-NODE_25_length_13343_cov_3.879816,39.94,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.10,blast;93.50 iPHoP-RF;80.80
+DNACOMP-HUMAN-PC-YM5460-NODE_29_length_12021_cov_7.105800,98.98,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Negativibacillus,91.60,blast;93.90
+DNACOMP-HUMAN-PC-YM5460-NODE_31_length_11449_cov_4.785150,9.93,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eisenbergiella,90.20,blast;92.70 iPHoP-RF;76.40
+DNACOMP-HUMAN-PC-YM5460-NODE_37_length_9885_cov_5.804069,45.17,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,93.00,blast;95.00 iPHoP-RF;64.00
+DNACOMP-HUMAN-PC-YM5460-NODE_38_length_9599_cov_4.444468,96.60,d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Lactococcus,94.90,blast;92.70 iPHoP-RF;91.80 RaFAH;75.20
+DNACOMP-HUMAN-PC-YM5460-NODE_41_length_8203_cov_3.853584,72.98,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Negativibacillus,90.70,blast;93.10 iPHoP-RF;74.30
+DNACOMP-HUMAN-PC-YM5460-NODE_46_length_7587_cov_4.109931,32.93,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium,95.20,blast;96.60 iPHoP-RF;94.70 CRISPR;60.90
+DNACOMP-HUMAN-PC-YM5460-NODE_48_length_7044_cov_3.633138,98.26,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Negativibacillus,91.60,blast;93.90 iPHoP-RF;51.70
+DNACOMP-HUMAN-PC-YM5460-NODE_4_length_121849_cov_10.134842,91.13,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter,99.90,CRISPR;98.80 RaFAH;90.30 blast;90.20 iPHoP-RF;89.50
+DNACOMP-HUMAN-PC-YM5460-NODE_4_length_121849_cov_10.134842,91.13,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia,99.90,CRISPR;98.80 blast;93.20 iPHoP-RF;92.10 RaFAH;90.30
+DNACOMP-HUMAN-PC-YM5460-NODE_4_length_121849_cov_10.134842,91.13,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__RUG115,99.30,RaFAH;90.30 iPHoP-RF;88.50 blast;86.70
+DNACOMP-HUMAN-PC-YM5460-NODE_4_length_121849_cov_10.134842,91.13,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA11774,91.40,iPHoP-RF;93.70 blast;85.70
+DNACOMP-HUMAN-PC-YM5460-NODE_5_length_63489_cov_15.044377,9.88,d__Bacteria;p__Firmicutes;c__Bacilli;o__RF39;f__UBA660;g__CAG-533,91.10,blast;93.50 iPHoP-RF;74.80
+DNACOMP-HUMAN-PC-YM5460-NODE_60_length_5661_cov_4.170353,69.45,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA945,92.20,blast;94.40
+DNACOMP-HUMAN-PC-YM5460-NODE_61_length_5528_cov_3.778732,22.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,90.70,iPHoP-RF;93.10 blast;92.40
+DNACOMP-HUMAN-PC-YM5460-NODE_65_length_4984_cov_3.441672,80.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__UBA945,91.60,blast;93.90
+DNACOMP-HUMAN-PC-YM5460-NODE_67_length_4880_cov_3.507979,13.56,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.10,blast;93.50 iPHoP-RF;83.90
+DNACOMP-HUMAN-PC-YM5460-NODE_81_length_4289_cov_3.218706,19.98,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,93.90,blast;95.70 iPHoP-RF;90.50
+DNACOMP-HUMAN-PC-YM5460-NODE_85_length_4168_cov_3.609288,8.77,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,94.50,CRISPR;96.10 blast;93.90 iPHoP-RF;86.00
+DNACOMP-HUMAN-PC-YM5460-NODE_88_length_4126_cov_2.956030,96.80,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium,95.70,CRISPR;97.00 blast;93.60 iPHoP-RF;87.30
+DNACOMP-HUMAN-PC-YM5460-NODE_8_length_47660_cov_9.167440_fragment_2,4.18,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.60,blast;96.90 iPHoP-RF;93.10
+DNACOMP-HUMAN-PC-YM5460-NODE_92_length_4060_cov_2.413733,18.00,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira,90.40,blast;92.90 iPHoP-RF;82.20
+DNACOMP-HUMAN-PC-YM5460-NODE_9_length_47437_cov_13.371555,98.36,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83,98.80,RaFAH;98.10 blast;76.40
+DNACOMP-HUMAN-PC-YM5460-NODE_9_length_47437_cov_13.371555,98.36,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,97.30,RaFAH;98.10 blast;51.10
+DNACOMP-MOUSE-KIT-L5F-NODE_112_length_3831_cov_19.140625,17.04,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.20,blast;92.70 iPHoP-RF;75.70
+DNACOMP-MOUSE-KIT-L5F-NODE_115_length_3784_cov_26.833736,16.79,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.70,blast;93.10
+DNACOMP-MOUSE-KIT-L5F-NODE_140_length_3125_cov_5.557980,20.24,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.00,blast;93.40 iPHoP-RF;59.50
+DNACOMP-MOUSE-KIT-L5F-NODE_142_length_3056_cov_4.458514,15.03,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,94.90,iPHoP-RF;96.40
+DNACOMP-MOUSE-KIT-L5F-NODE_16_length_18172_cov_13.871999,23.07,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,90.70,blast;93.10 iPHoP-RF;80.80
+DNACOMP-MOUSE-KIT-L5F-NODE_1_length_135683_cov_10.218826,23.43,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,94.50,blast;96.10 iPHoP-RF;69.10
+DNACOMP-MOUSE-KIT-L5F-NODE_20_length_16011_cov_4.842316,62.72,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.00,blast;93.40 iPHoP-RF;53.60
+DNACOMP-MOUSE-KIT-L5F-NODE_23_length_14830_cov_5.438037,32.42,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.60,blast;93.90 iPHoP-RF;78.70
+DNACOMP-MOUSE-KIT-L5F-NODE_27_length_14476_cov_65.205256,7.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.70,blast;93.10 iPHoP-RF;78.00
+DNACOMP-MOUSE-KIT-L5F-NODE_29_length_14268_cov_5.616619,13.11,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__ER4,90.90,blast;93.30 iPHoP-RF;60.90
+DNACOMP-MOUSE-KIT-L5F-NODE_2_length_47321_cov_17.389582,51.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA11774,92.60,iPHoP-RF;94.70 CRISPR;83.50
+DNACOMP-MOUSE-KIT-L5F-NODE_2_length_47321_cov_17.389582,51.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,92.20,iPHoP-RF;94.40 blast;93.60 CRISPR;75.40
+DNACOMP-MOUSE-KIT-L5F-NODE_30_length_14172_cov_4.831905,60.59,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Anaerocolumna,90.30,blast;92.80 iPHoP-RF;63.00
+DNACOMP-MOUSE-KIT-L5F-NODE_34_length_11543_cov_7.729805,63.02,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,92.00,blast;94.20 iPHoP-RF;50.90
+DNACOMP-MOUSE-KIT-L5F-NODE_37_length_10198_cov_12.148674,7.20,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor,91.20,blast;93.60 iPHoP-RF;59.20
+DNACOMP-MOUSE-KIT-L5F-NODE_3_length_45583_cov_50.050826,37.86,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.80,blast;93.20 iPHoP-RF;68.60
+DNACOMP-MOUSE-KIT-L5F-NODE_41_length_9297_cov_29.901645,20.43,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.00,blast;92.50
+DNACOMP-MOUSE-KIT-L5F-NODE_44_length_7821_cov_3.956863,35.23,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix,90.80,blast;93.20 iPHoP-RF;70.40
+DNACOMP-MOUSE-KIT-L5F-NODE_46_length_7777_cov_5.410774,30.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,91.00,blast;93.40 iPHoP-RF;53.30
+DNACOMP-MOUSE-KIT-L5F-NODE_48_length_7525_cov_5.172289,29.20,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,91.00,iPHoP-RF;93.40
+DNACOMP-MOUSE-KIT-L5F-NODE_57_length_6695_cov_9.018675,20.94,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.70,blast;93.10 iPHoP-RF;68.40
+DNACOMP-MOUSE-KIT-L5F-NODE_5_length_40241_cov_11.220549,19.65,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,90.10,blast;92.60 iPHoP-RF;91.80
+DNACOMP-MOUSE-KIT-L5F-NODE_65_length_5991_cov_14.771058,22.04,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,92.60,blast;94.70 iPHoP-RF;64.80
+DNACOMP-MOUSE-KIT-L5F-NODE_66_length_5946_cov_3.025463,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.70 iPHoP-RF;97.10 blast;95.10
+DNACOMP-MOUSE-KIT-L5F-NODE_6_length_37540_cov_88.942457,65.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.40,blast;93.70 iPHoP-RF;67.30
+DNACOMP-MOUSE-KIT-L5F-NODE_74_length_5537_cov_4.188070,99.88,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,96.40,blast;95.50 iPHoP-RF;94.10 RaFAH;72.50
+DNACOMP-MOUSE-KIT-L5F-NODE_78_length_5281_cov_5.800804,72.97,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,92.30,blast;94.50 iPHoP-RF;53.60
+DNACOMP-MOUSE-KIT-L5F-NODE_79_length_5223_cov_4.398413,34.73,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,91.00,blast;93.40 iPHoP-RF;59.80
+DNACOMP-MOUSE-KIT-L5F-NODE_81_length_5101_cov_4.297860,35.87,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,93.90,iPHoP-RF;95.70
+DNACOMP-MOUSE-KIT-L5F-NODE_90_length_4775_cov_3.773729,23.70,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.80,blast;94.10 iPHoP-RF;69.80
+DNACOMP-MOUSE-KIT-L5F-NODE_93_length_4490_cov_4.398647,58.44,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,90.90,blast;93.30 iPHoP-RF;61.90
+DNACOMP-MOUSE-KIT-L5F-NODE_9_length_30734_cov_55.617882,69.67,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.60,blast;93.90 iPHoP-RF;76.80
+DNACOMP-MOUSE-KIT-M5M-NODE_10_length_21063_cov_6.106340,5.88,d__Bacteria;p__Firmicutes;c__Bacilli;o__Haloplasmatales_A;f__Turicibacteraceae;g__Turicibacter,92.50,blast;94.60 iPHoP-RF;73.50
+DNACOMP-MOUSE-KIT-M5M-NODE_15_length_15353_cov_13.179174,44.54,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,90.80,blast;93.20
+DNACOMP-MOUSE-KIT-M5M-NODE_1_length_70017_cov_15.838727,66.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.60,blast;93.90 iPHoP-RF;83.10
+DNACOMP-MOUSE-KIT-M5M-NODE_28_length_6773_cov_14.408604,40.92,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,90.20,blast;92.70 iPHoP-RF;75.00
+DNACOMP-MOUSE-KIT-M5M-NODE_30_length_6347_cov_177.848379,44.25,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_I,90.60,blast;93.00 iPHoP-RF;59.50
+DNACOMP-MOUSE-KIT-M5M-NODE_37_length_4991_cov_11.493517,12.76,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.40,blast;92.90 iPHoP-RF;83.90
+DNACOMP-MOUSE-KIT-M5M-NODE_3_length_42611_cov_7.312247,28.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.00,blast;92.50 iPHoP-RF;65.80
+DNACOMP-MOUSE-KIT-M5M-NODE_42_length_4449_cov_4.504779,23.56,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.60,blast;93.00 iPHoP-RF;65.10
+DNACOMP-MOUSE-KIT-M5M-NODE_45_length_4032_cov_3.992708,44.91,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.60,blast;93.90 iPHoP-RF;74.80
+DNACOMP-MOUSE-KIT-M5M-NODE_49_length_3621_cov_26.786876,53.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.00,blast;93.40 iPHoP-RF;60.30
+DNACOMP-MOUSE-KIT-M5M-NODE_4_length_39265_cov_176.614792,77.67,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter,91.50,blast;93.80 iPHoP-RF;76.40
+DNACOMP-MOUSE-KIT-M5M-NODE_5_length_35467_cov_7.848046,69.67,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.30,blast;92.80 iPHoP-RF;78.30
+DNACOMP-MOUSE-KIT-M5M-NODE_6_length_28956_cov_63.834366,74.86,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,92.10,blast;94.30 iPHoP-RF;82.20
+DNACOMP-MOUSE-KIT-M5M-NODE_7_length_28207_cov_59.702970,69.25,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.20,blast;93.60
+DNACOMP-MOUSE-KIT-M5M-NODE_9_length_23522_cov_15.091277,54.77,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.00,blast;93.40
+DNACOMP-MOUSE-KIT-N5F-NODE_107_length_3209_cov_3.184211,82.26,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,91.20,blast;93.60
+DNACOMP-MOUSE-KIT-N5F-NODE_109_length_3181_cov_3.818618,10.25,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,90.90,blast;93.30 iPHoP-RF;68.00
+DNACOMP-MOUSE-KIT-N5F-NODE_111_length_3142_cov_3.331390,48.32,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11,91.50,blast;93.80
+DNACOMP-MOUSE-KIT-N5F-NODE_113_length_3135_cov_4.029221,36.77,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Kineothrix,91.50,blast;93.80 iPHoP-RF;68.40
+DNACOMP-MOUSE-KIT-N5F-NODE_118_length_3049_cov_3.987976,42.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11,91.00,blast;93.40
+DNACOMP-MOUSE-KIT-N5F-NODE_11_length_16051_cov_4.428045,17.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,94.60,blast;96.20 iPHoP-RF;88.20 CRISPR;76.60
+DNACOMP-MOUSE-KIT-N5F-NODE_19_length_12583_cov_4.838522,30.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.60,blast;93.90 iPHoP-RF;74.30
+DNACOMP-MOUSE-KIT-N5F-NODE_1_length_85243_cov_8.095976,66.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.00,blast;93.40 iPHoP-RF;60.30
+DNACOMP-MOUSE-KIT-N5F-NODE_21_length_11520_cov_8.759703,63.02,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,92.00,blast;94.20 iPHoP-RF;52.50
+DNACOMP-MOUSE-KIT-N5F-NODE_25_length_10198_cov_7.231884,7.20,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor,91.20,blast;93.60 iPHoP-RF;66.50
+DNACOMP-MOUSE-KIT-N5F-NODE_26_length_10008_cov_2.731739,14.72,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,91.50,blast;93.80 iPHoP-RF;82.50
+DNACOMP-MOUSE-KIT-N5F-NODE_28_length_9655_cov_4.253125,10.31,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,94.50,iPHoP-RF;96.10
+DNACOMP-MOUSE-KIT-N5F-NODE_2_length_51439_cov_35.886852,48.82,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,90.80,blast;93.20 iPHoP-RF;75.40
+DNACOMP-MOUSE-KIT-N5F-NODE_35_length_7423_cov_6.765065,64.62,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,91.60,blast;93.90 iPHoP-RF;64.50
+DNACOMP-MOUSE-KIT-N5F-NODE_37_length_7340_cov_4.899245,99.97,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.90 iPHoP-RF;96.40 blast;90.90
+DNACOMP-MOUSE-KIT-N5F-NODE_37_length_7340_cov_4.899245,99.97,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.50,blast;93.80
+DNACOMP-MOUSE-KIT-N5F-NODE_37_length_7340_cov_4.899245,99.97,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,90.30,iPHoP-RF;92.80 blast;89.80 CRISPR;68.20
+DNACOMP-MOUSE-KIT-N5F-NODE_39_length_6692_cov_4.937622,43.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__An92,93.80,blast;95.60 iPHoP-RF;79.80
+DNACOMP-MOUSE-KIT-N5F-NODE_39_length_6692_cov_4.937622,43.69,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,93.50,iPHoP-RF;95.40
+DNACOMP-MOUSE-KIT-N5F-NODE_3_length_45628_cov_120.412701,28.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.80,blast;93.20 iPHoP-RF;69.80
+DNACOMP-MOUSE-KIT-N5F-NODE_42_length_6424_cov_4.953525,7.63,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia,95.00,blast;96.50 iPHoP-RF;71.10
+DNACOMP-MOUSE-KIT-N5F-NODE_42_length_6424_cov_4.953525,7.63,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia_B,91.40,blast;93.70
+DNACOMP-MOUSE-KIT-N5F-NODE_42_length_6424_cov_4.953525,7.63,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Paraclostridium,91.00,blast;93.40 iPHoP-RF;64.30
+DNACOMP-MOUSE-KIT-N5F-NODE_43_length_6362_cov_4.455684,7.62,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,95.90,iPHoP-RF;97.10
+DNACOMP-MOUSE-KIT-N5F-NODE_43_length_6362_cov_4.455684,7.62,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,95.90,iPHoP-RF;97.10
+DNACOMP-MOUSE-KIT-N5F-NODE_43_length_6362_cov_4.455684,7.62,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,93.50,iPHoP-RF;95.40
+DNACOMP-MOUSE-KIT-N5F-NODE_50_length_5999_cov_3.092867,94.12,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Enterocloster,91.40,blast;93.70 iPHoP-RF;84.20
+DNACOMP-MOUSE-KIT-N5F-NODE_53_length_5613_cov_3.665347,46.22,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,91.80,iPHoP-RF;94.10
+DNACOMP-MOUSE-KIT-N5F-NODE_53_length_5613_cov_3.665347,46.22,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,91.10,blast;93.50 iPHoP-RF;86.00
+DNACOMP-MOUSE-KIT-N5F-NODE_5_length_37549_cov_85.311943,63.27,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.20,blast;93.60 iPHoP-RF;67.30
+DNACOMP-MOUSE-KIT-N5F-NODE_67_length_4496_cov_3.649628,35.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,92.60,iPHoP-RF;94.70
+DNACOMP-MOUSE-KIT-N5F-NODE_75_length_3988_cov_3.290872,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,94.50,iPHoP-RF;96.10 blast;92.80
+DNACOMP-MOUSE-KIT-N5F-NODE_7_length_24120_cov_106.270891,14.77,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.90,blast;93.30 iPHoP-RF;79.80
+DNACOMP-MOUSE-KIT-N5F-NODE_9_length_18405_cov_6.146812,99.95,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.80 iPHoP-RF;96.40 blast;95.60
+DNACOMP-MOUSE-KIT-O5M-NODE_11_length_27760_cov_9.450099,15.89,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.90,iPHoP-RF;97.10
+DNACOMP-MOUSE-KIT-O5M-NODE_1_length_85053_cov_12.635250,66.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.00,blast;93.40 iPHoP-RF;70.40
+DNACOMP-MOUSE-KIT-O5M-NODE_23_length_10502_cov_5.015315,35.80,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.40,blast;93.70 iPHoP-RF;85.40
+DNACOMP-MOUSE-KIT-O5M-NODE_25_length_9699_cov_25.158440,7.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.70,blast;93.10 iPHoP-RF;83.60
+DNACOMP-MOUSE-KIT-O5M-NODE_29_length_7144_cov_5.186345,14.92,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__An92,91.60,blast;93.90 iPHoP-RF;78.70
+DNACOMP-MOUSE-KIT-O5M-NODE_3_length_60539_cov_21.311950,35.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,90.00,blast;92.50
+DNACOMP-MOUSE-KIT-O5M-NODE_40_length_4748_cov_4.878756,11.32,d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae;g__Bacillus,92.00,RaFAH;94.20
+DNACOMP-MOUSE-KIT-O5M-NODE_40_length_4748_cov_4.878756,11.32,d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Bacillaceae_G;g__Bacillus_A,92.00,RaFAH;94.20
+DNACOMP-MOUSE-KIT-O5M-NODE_44_length_4220_cov_8.155342,18.80,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__An92,90.10,blast;92.60 iPHoP-RF;61.10
+DNACOMP-MOUSE-KIT-O5M-NODE_4_length_60083_cov_10.729943,11.56,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.10,blast;93.50 iPHoP-RF;59.20
+DNACOMP-MOUSE-KIT-O5M-NODE_60_length_3024_cov_2.786123,34.90,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,91.40,iPHoP-RF;93.70 blast;89.70
+DNACOMP-MOUSE-KIT-O5M-NODE_60_length_3024_cov_2.786123,34.90,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor,90.70,blast;93.10 iPHoP-RF;52.50
+DNACOMP-MOUSE-KIT-O5M-NODE_6_length_45628_cov_23.756983,28.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.90,blast;93.30 iPHoP-RF;69.80
+DNACOMP-MOUSE-KIT-O5M-NODE_9_length_37505_cov_25.822056,65.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.20,blast;93.60 iPHoP-RF;68.00
+DNACOMP-MOUSE-PC-L5F-NODE_109_length_3831_cov_16.633739,17.04,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.20,blast;92.70 iPHoP-RF;78.30
+DNACOMP-MOUSE-PC-L5F-NODE_115_length_3698_cov_4.242108,23.60,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.80,blast;94.10 iPHoP-RF;69.10
+DNACOMP-MOUSE-PC-L5F-NODE_11_length_30748_cov_57.788812,69.67,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.60,blast;93.90 iPHoP-RF;77.10
+DNACOMP-MOUSE-PC-L5F-NODE_137_length_3220_cov_2.139652,96.83,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,91.20,blast;93.60 iPHoP-RF;90.50
+DNACOMP-MOUSE-PC-L5F-NODE_17_length_19661_cov_4.930837,30.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.60,blast;93.90 iPHoP-RF;83.90
+DNACOMP-MOUSE-PC-L5F-NODE_1_length_70922_cov_10.162925,17.87,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,94.30,blast;96.00 iPHoP-RF;64.30
+DNACOMP-MOUSE-PC-L5F-NODE_26_length_14476_cov_60.757368,7.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.70,blast;93.10 iPHoP-RF;81.40
+DNACOMP-MOUSE-PC-L5F-NODE_32_length_11825_cov_4.093458,49.10,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,92.00,blast;90.90 RaFAH;68.40
+DNACOMP-MOUSE-PC-L5F-NODE_36_length_11054_cov_14.682153,23.07,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.10,blast;92.60 iPHoP-RF;51.50
+DNACOMP-MOUSE-PC-L5F-NODE_38_length_10634_cov_7.650345,63.03,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,92.00,blast;94.20
+DNACOMP-MOUSE-PC-L5F-NODE_3_length_47320_cov_17.773173,51.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,91.20,blast;93.60 iPHoP-RF;93.40 CRISPR;75.40
+DNACOMP-MOUSE-PC-L5F-NODE_3_length_47320_cov_17.773173,51.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD42-69,90.30,iPHoP-RF;92.80
+DNACOMP-MOUSE-PC-L5F-NODE_3_length_47320_cov_17.773173,51.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA11774,90.30,iPHoP-RF;92.80 CRISPR;83.50
+DNACOMP-MOUSE-PC-L5F-NODE_40_length_10198_cov_10.095041,7.20,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor,91.60,blast;93.90
+DNACOMP-MOUSE-PC-L5F-NODE_46_length_8903_cov_3.691230,21.36,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,90.80,blast;93.20 iPHoP-RF;75.70
+DNACOMP-MOUSE-PC-L5F-NODE_48_length_8389_cov_3.715143,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,98.20,iPHoP-RF;93.70 blast;92.90 RaFAH;89.40
+DNACOMP-MOUSE-PC-L5F-NODE_48_length_8389_cov_3.715143,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,90.30,blast;92.80
+DNACOMP-MOUSE-PC-L5F-NODE_4_length_45616_cov_51.169816,28.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.90,blast;93.30 iPHoP-RF;63.30
+DNACOMP-MOUSE-PC-L5F-NODE_55_length_7328_cov_29.497181,25.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.60,blast;93.90
+DNACOMP-MOUSE-PC-L5F-NODE_61_length_6547_cov_3.574707,19.19,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__An92,90.70,blast;93.10 iPHoP-RF;71.70
+DNACOMP-MOUSE-PC-L5F-NODE_65_length_5991_cov_14.515667,22.04,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,92.60,blast;94.70 iPHoP-RF;65.80
+DNACOMP-MOUSE-PC-L5F-NODE_67_length_5881_cov_3.737727,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.40,iPHoP-RF;96.10 blast;95.00 RaFAH;94.00
+DNACOMP-MOUSE-PC-L5F-NODE_73_length_5610_cov_31.006481,10.55,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.40,blast;92.90 iPHoP-RF;70.20
+DNACOMP-MOUSE-PC-L5F-NODE_76_length_5471_cov_19.003323,44.99,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.50,blast;93.80 iPHoP-RF;70.20
+DNACOMP-MOUSE-PC-L5F-NODE_7_length_37538_cov_89.915668,63.27,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.40,blast;93.70 iPHoP-RF;67.30
+DNACOMP-MOUSE-PC-L5F-NODE_87_length_4878_cov_29.984657,49.70,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,91.40,blast;93.70 iPHoP-RF;65.60
+DNACOMP-MOUSE-PC-L5F-NODE_89_length_4828_cov_8.323486,19.03,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.90,iPHoP-RF;97.10
+DNACOMP-MOUSE-PC-M5M-NODE_11_length_28843_cov_132.991455,74.86,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,92.10,blast;94.30 iPHoP-RF;87.00
+DNACOMP-MOUSE-PC-M5M-NODE_12_length_28207_cov_124.693556,69.25,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.20,blast;93.60
+DNACOMP-MOUSE-PC-M5M-NODE_13_length_23538_cov_28.387770,54.77,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.00,blast;93.40
+DNACOMP-MOUSE-PC-M5M-NODE_14_length_22125_cov_5.260897,28.10,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.60,blast;93.90 iPHoP-RF;73.00
+DNACOMP-MOUSE-PC-M5M-NODE_16_length_21071_cov_9.412257,5.88,d__Bacteria;p__Firmicutes;c__Bacilli;o__Haloplasmatales_A;f__Turicibacteraceae;g__Turicibacter,92.50,blast;94.60 iPHoP-RF;65.60
+DNACOMP-MOUSE-PC-M5M-NODE_1_length_85272_cov_29.898436,66.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.00,blast;93.40 iPHoP-RF;61.90
+DNACOMP-MOUSE-PC-M5M-NODE_21_length_16771_cov_6.185272,30.46,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.10,blast;93.50 iPHoP-RF;53.80
+DNACOMP-MOUSE-PC-M5M-NODE_34_length_10923_cov_328.354251,48.89,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_I,90.10,blast;92.60 iPHoP-RF;53.00
+DNACOMP-MOUSE-PC-M5M-NODE_38_length_8387_cov_14.734037,15.60,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,91.50,blast;93.80 iPHoP-RF;72.40
+DNACOMP-MOUSE-PC-M5M-NODE_41_length_7552_cov_4.621182,17.81,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.20,blast;93.60 iPHoP-RF;70.00
+DNACOMP-MOUSE-PC-M5M-NODE_44_length_7140_cov_3.828511,7.14,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor,93.50,blast;95.40 iPHoP-RF;71.10
+DNACOMP-MOUSE-PC-M5M-NODE_47_length_6480_cov_4.382412,48.45,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,90.70,iPHoP-RF;93.10
+DNACOMP-MOUSE-PC-M5M-NODE_48_length_6456_cov_3.092486,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;96.90 iPHoP-RF;93.10 blast;92.50
+DNACOMP-MOUSE-PC-M5M-NODE_51_length_5856_cov_4.085158,23.33,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__MED-G52,90.30,iPHoP-RF;92.80
+DNACOMP-MOUSE-PC-M5M-NODE_56_length_4816_cov_4.045999,,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor,90.90,blast;93.30 iPHoP-RF;77.80
+DNACOMP-MOUSE-PC-M5M-NODE_5_length_37296_cov_13.171558,24.19,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.20,blast;92.70 iPHoP-RF;63.30
+DNACOMP-MOUSE-PC-M5M-NODE_63_length_4116_cov_4.960355,17.42,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,90.10,blast;92.60
+DNACOMP-MOUSE-PC-M5M-NODE_64_length_4043_cov_3.324724,17.84,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,91.60,blast;93.90 iPHoP-RF;75.90
+DNACOMP-MOUSE-PC-M5M-NODE_6_length_36553_cov_13.693189,69.67,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,90.20,blast;92.70 iPHoP-RF;78.50
+DNACOMP-MOUSE-PC-M5M-NODE_70_length_3737_cov_3.066268,100.00,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,96.00,iPHoP-RF;96.10 blast;93.40 RaFAH;63.90
+DNACOMP-MOUSE-PC-M5M-NODE_74_length_3621_cov_58.040942,53.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.00,blast;93.40 iPHoP-RF;56.00
+DNACOMP-MOUSE-PC-N5F-NODE_10_length_20079_cov_11.443718,33.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__An92,94.30,blast;96.00 iPHoP-RF;95.70
+DNACOMP-MOUSE-PC-N5F-NODE_10_length_20079_cov_11.443718,33.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Flavonifractor,91.80,iPHoP-RF;94.10
+DNACOMP-MOUSE-PC-N5F-NODE_10_length_20079_cov_11.443718,33.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Pseudoflavonifractor,91.40,iPHoP-RF;93.70
+DNACOMP-MOUSE-PC-N5F-NODE_111_length_3212_cov_3.392461,58.40,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Enterocloster,90.10,blast;92.60 iPHoP-RF;71.10
+DNACOMP-MOUSE-PC-N5F-NODE_113_length_3145_cov_3.927184,8.58,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia,92.50,blast;94.60 iPHoP-RF;77.30
+DNACOMP-MOUSE-PC-N5F-NODE_113_length_3145_cov_3.927184,8.58,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Paraclostridium,91.40,blast;93.70 iPHoP-RF;79.00
+DNACOMP-MOUSE-PC-N5F-NODE_11_length_19353_cov_4.958234,14.63,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,94.60,blast;96.20 iPHoP-RF;93.10 CRISPR;76.60
+DNACOMP-MOUSE-PC-N5F-NODE_11_length_19353_cov_4.958234,14.63,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA11774,92.20,iPHoP-RF;94.40 CRISPR;79.20
+DNACOMP-MOUSE-PC-N5F-NODE_12_length_19090_cov_7.902285,68.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,92.30,blast;94.50 iPHoP-RF;70.20
+DNACOMP-MOUSE-PC-N5F-NODE_13_length_18541_cov_5.967110,99.95,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;99.80 iPHoP-RF;96.40 blast;94.90
+DNACOMP-MOUSE-PC-N5F-NODE_13_length_18541_cov_5.967110,99.95,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides,91.20,blast;93.60
+DNACOMP-MOUSE-PC-N5F-NODE_18_length_14476_cov_85.630331,7.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.70,blast;93.10 iPHoP-RF;81.40
+DNACOMP-MOUSE-PC-N5F-NODE_19_length_13797_cov_4.331029,99.99,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,100.00,RaFAH;98.80 iPHoP-RF;97.10 blast;95.30
+DNACOMP-MOUSE-PC-N5F-NODE_19_length_13797_cov_4.331029,99.99,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola,94.50,iPHoP-RF;96.10 blast;90.10 CRISPR;68.20
+DNACOMP-MOUSE-PC-N5F-NODE_1_length_85241_cov_10.600474,66.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.00,blast;93.40 iPHoP-RF;67.50
+DNACOMP-MOUSE-PC-N5F-NODE_26_length_10775_cov_4.148414,32.82,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__TF01-11,90.70,blast;93.10
+DNACOMP-MOUSE-PC-N5F-NODE_28_length_10464_cov_6.412912,36.49,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.60,blast;93.90 iPHoP-RF;74.30
+DNACOMP-MOUSE-PC-N5F-NODE_2_length_51443_cov_39.180723,48.82,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,90.80,blast;93.20 iPHoP-RF;84.50
+DNACOMP-MOUSE-PC-N5F-NODE_31_length_10198_cov_6.904762,7.20,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor,91.60,blast;93.90 iPHoP-RF;61.40
+DNACOMP-MOUSE-PC-N5F-NODE_36_length_7458_cov_6.520059,64.60,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,91.60,blast;93.90 iPHoP-RF;66.30
+DNACOMP-MOUSE-PC-N5F-NODE_38_length_7181_cov_4.374404,19.90,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,90.90,blast;93.30 iPHoP-RF;79.80
+DNACOMP-MOUSE-PC-N5F-NODE_39_length_7110_cov_3.541318,15.31,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,91.60,blast;93.90 iPHoP-RF;89.50
+DNACOMP-MOUSE-PC-N5F-NODE_3_length_45628_cov_131.653698,28.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.90,blast;93.30 iPHoP-RF;69.80
+DNACOMP-MOUSE-PC-N5F-NODE_41_length_6977_cov_3.781133,42.14,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.80,blast;94.10 iPHoP-RF;65.10
+DNACOMP-MOUSE-PC-N5F-NODE_42_length_6970_cov_4.061461,39.62,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Clostridium_AP,90.70,blast;93.10
+DNACOMP-MOUSE-PC-N5F-NODE_46_length_6219_cov_3.941110,82.74,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.60,blast;93.00 iPHoP-RF;67.70
+DNACOMP-MOUSE-PC-N5F-NODE_50_length_5403_cov_5.790576,20.09,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,95.90,iPHoP-RF;97.10
+DNACOMP-MOUSE-PC-N5F-NODE_53_length_5331_cov_4.938400,7.01,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983_A;f__PALSA-1337;g__C7867-002,92.60,iPHoP-RF;94.70
+DNACOMP-MOUSE-PC-N5F-NODE_57_length_5209_cov_3.847885,93.64,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Enterocloster,91.60,blast;93.90 iPHoP-RF;76.40
+DNACOMP-MOUSE-PC-N5F-NODE_5_length_41396_cov_6.961418,67.04,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,92.70,blast;84.60 RaFAH;83.20
+DNACOMP-MOUSE-PC-N5F-NODE_62_length_5041_cov_3.709587,48.57,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,90.70,blast;93.10 iPHoP-RF;74.80
+DNACOMP-MOUSE-PC-N5F-NODE_65_length_4882_cov_2.856433,4.63,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Peptostreptococcaceae;g__Romboutsia,93.90,blast;95.70 iPHoP-RF;56.00
+DNACOMP-MOUSE-PC-N5F-NODE_65_length_4882_cov_2.856433,4.63,d__Bacteria;p__Firmicutes;c__Bacilli;o__Erysipelotrichales;f__Erysipelatoclostridiaceae;g__Faecalibacillus,90.20,blast;92.70
+DNACOMP-MOUSE-PC-N5F-NODE_6_length_37549_cov_111.664053,65.84,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.20,blast;93.60 iPHoP-RF;67.30
+DNACOMP-MOUSE-PC-N5F-NODE_73_length_4501_cov_2.853351,18.43,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,91.80,iPHoP-RF;94.10
+DNACOMP-MOUSE-PC-N5F-NODE_74_length_4461_cov_5.016795,13.29,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Xenorhabdus,90.70,iPHoP-RF;93.10
+DNACOMP-MOUSE-PC-N5F-NODE_75_length_4452_cov_4.720036,78.53,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyrivibrio,91.40,iPHoP-RF;93.70
+DNACOMP-MOUSE-PC-N5F-NODE_85_length_3918_cov_2.720683,11.43,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,91.60,blast;93.90 iPHoP-RF;87.00
+DNACOMP-MOUSE-PC-N5F-NODE_90_length_3723_cov_4.348146,69.03,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,91.00,iPHoP-RF;93.40 blast;86.70
+DNACOMP-MOUSE-PC-N5F-NODE_90_length_3723_cov_4.348146,69.03,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__14-2,90.00,blast;92.50
+DNACOMP-MOUSE-PC-O5M-NODE_12_length_32987_cov_16.042481,8.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.10,blast;93.50 iPHoP-RF;59.50
+DNACOMP-MOUSE-PC-O5M-NODE_16_length_21803_cov_5.934063,28.13,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter,91.60,blast;93.90 iPHoP-RF;72.40
+DNACOMP-MOUSE-PC-O5M-NODE_1_length_85050_cov_17.467486,66.30,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Lawsonibacter,91.00,blast;93.40 iPHoP-RF;70.40
+DNACOMP-MOUSE-PC-O5M-NODE_2_length_60664_cov_66.365457,74.86,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Hungatella,90.10,blast;83.30 RaFAH;77.70
+DNACOMP-MOUSE-PC-O5M-NODE_31_length_9699_cov_28.686541,7.38,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282,90.70,blast;93.10 iPHoP-RF;86.70
+DNACOMP-MOUSE-PC-O5M-NODE_33_length_9068_cov_4.037169,9.44,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Photorhabdus,94.90,iPHoP-RF;96.40
+DNACOMP-MOUSE-PC-O5M-NODE_3_length_58746_cov_27.920703,35.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1,90.00,blast;92.50
+DNACOMP-MOUSE-PC-O5M-NODE_40_length_6531_cov_3.733786,61.28,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,92.50,blast;94.60 iPHoP-RF;78.30
+DNACOMP-MOUSE-PC-O5M-NODE_47_length_5272_cov_2.811386,11.08,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_J,94.60,blast;96.20 iPHoP-RF;82.20
+DNACOMP-MOUSE-PC-O5M-NODE_4_length_58401_cov_67.935625,73.34,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Cuneatibacter,91.50,blast;93.80 iPHoP-RF;82.20
+DNACOMP-MOUSE-PC-O5M-NODE_51_length_4813_cov_2.789407,66.24,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Butyricicoccaceae;g__QXXE01,91.70,blast;94.00
+DNACOMP-MOUSE-PC-O5M-NODE_52_length_4729_cov_10.533162,72.36,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-81,90.60,blast;93.00 iPHoP-RF;53.30
+DNACOMP-MOUSE-PC-O5M-NODE_5_length_48417_cov_14.139448,29.86,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,93.90,iPHoP-RF;95.70
+DNACOMP-MOUSE-PC-O5M-NODE_6_length_45205_cov_19.280244,28.50,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,90.90,blast;93.30 iPHoP-RF;69.80
+DNACOMP-MOUSE-PC-O5M-NODE_86_length_3031_cov_2.784274,21.65,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95,91.50,blast;93.80 iPHoP-RF;92.10
+DNACOMP-MOUSE-PC-O5M-NODE_9_length_37521_cov_43.002242,65.85,d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__1XD8-76,91.20,blast;93.60 iPHoP-RF;67.30
+DNACOMP-SOIL-KIT-A-NODE_105_length_3016_cov_2.468085,30.66,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium,93.90,iPHoP-RF;95.70
+DNACOMP-SOIL-KIT-A-NODE_31_length_8111_cov_4.829568,7.27,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Xenorhabdus,90.30,iPHoP-RF;92.80
+DNACOMP-SOIL-KIT-A-NODE_48_length_6016_cov_3.011575,35.79,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium,91.80,iPHoP-RF;94.10
+DNACOMP-SOIL-KIT-A-NODE_6_length_17557_cov_3.823677,2.77,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Weeksellaceae;g__Chryseobacterium,92.20,iPHoP-RF;94.40
+DNACOMP-SOIL-KIT-A-NODE_82_length_3735_cov_2.223913,13.74,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycobacterium,91.80,iPHoP-RF;94.10
+DNACOMP-SOIL-KIT-A-NODE_99_length_3223_cov_2.768939,46.42,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium,91.80,iPHoP-RF;94.10
+DNACOMP-SOIL-KIT-B-NODE_1_length_43978_cov_7.211825,19.43,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycobacterium,95.30,iPHoP-RF;96.70
+DNACOMP-SOIL-KIT-B-NODE_21_length_6146_cov_4.047611,3.01,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Arthrobacter,93.90,iPHoP-RF;95.70
+DNACOMP-SOIL-KIT-B-NODE_21_length_6146_cov_4.047611,3.01,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__MA-N2,91.00,iPHoP-RF;93.40
+DNACOMP-SOIL-KIT-B-NODE_21_length_6146_cov_4.047611,3.01,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Arthrobacter_I,90.70,iPHoP-RF;93.10
+DNACOMP-SOIL-KIT-B-NODE_21_length_6146_cov_4.047611,3.01,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Pseudarthrobacter,90.70,iPHoP-RF;93.10
+DNACOMP-SOIL-KIT-B-NODE_62_length_3318_cov_2.940239,14.48,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces,95.30,iPHoP-RF;96.70
+DNACOMP-SOIL-KIT-B-NODE_67_length_3160_cov_2.289855,8.55,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Cupriavidus,90.70,iPHoP-RF;93.10
+DNACOMP-SOIL-PC-A-NODE_103_length_3447_cov_3.201061,14.09,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E,95.30,iPHoP-RF;96.70
+DNACOMP-SOIL-PC-A-NODE_117_length_3196_cov_2.883158,4.91,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium,90.30,iPHoP-RF;92.80
+DNACOMP-SOIL-PC-A-NODE_58_length_4663_cov_3.058377,15.84,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E,95.90,iPHoP-RF;97.10
+DNACOMP-SOIL-PC-A-NODE_65_length_4274_cov_2.572648,9.34,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E,94.50,iPHoP-RF;96.10
+DNACOMP-SOIL-PC-A-NODE_79_length_3919_cov_2.813923,8.51,d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Anoxybacillaceae;g__Saccharococcus,94.50,iPHoP-RF;96.10
+DNACOMP-SOIL-PC-A-NODE_79_length_3919_cov_2.813923,8.51,d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Anoxybacillaceae;g__Parageobacillus,93.90,iPHoP-RF;95.70
+DNACOMP-SOIL-PC-A-NODE_79_length_3919_cov_2.813923,8.51,d__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Anoxybacillaceae;g__Geobacillus,90.70,iPHoP-RF;93.10
+DNACOMP-SOIL-PC-B-NODE_111_length_3525_cov_2.984150,18.28,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycobacterium,94.50,iPHoP-RF;96.10
+DNACOMP-SOIL-PC-B-NODE_118_length_3374_cov_3.416692,7.20,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycobacterium,95.90,iPHoP-RF;97.10
+DNACOMP-SOIL-PC-B-NODE_11_length_24084_cov_4.610387,10.64,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Streptomycetales;f__Streptomycetaceae;g__Streptomyces,99.30,RaFAH;98.00 iPHoP-RF;75.40 CRISPR;68.60
+DNACOMP-SOIL-PC-B-NODE_144_length_3051_cov_3.037049,3.44,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Gordonia,90.70,iPHoP-RF;93.10
+DNACOMP-SOIL-PC-B-NODE_2_length_44025_cov_10.834865,19.43,d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycobacterium,95.90,iPHoP-RF;97.10
+DNACOMP-SOIL-PC-B-NODE_3_length_43129_cov_7.827413,6.43,d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingobium,91.00,iPHoP-RF;93.40
+DNACOMP-SOIL-PC-B-NODE_49_length_5988_cov_3.707736,3.00,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E,90.70,iPHoP-RF;93.10

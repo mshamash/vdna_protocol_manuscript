@@ -58,6 +58,7 @@ nmds.bray.plot <- plot_ordination(ps, ord.nmds.bray, color="Environment", shape 
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 
 nmds.bray.plot
+ord.nmds.bray$stress
 
 sampledf <- data.frame(sample_data(ps))
 ps_BC <- vegdist(t(otu_table(ps)), method = "bray")
@@ -68,8 +69,8 @@ adonis2(ps_BC ~ ExtractionMethod + Environment + SampleID, sampledf)
 ### TABLE WITH PERMANOVA RESULTS
 permanova.table <- data.frame(
   `Effect` = c("ExtractionMethod", "Environment", "Sample"),
-  `R2` = c("0.00245", "0.37243", "0.59581"),
-  `P.value` = c("0.420", "0.001", "0.001"))
+  `R2` = c("0.00185", "0.36245", "0.61344"),
+  `P.value` = c("0.426", "0.001", "0.001"))
 
 permanova.flextable <- flextable(permanova.table) %>% 
   add_header_row(colwidths = c(3),
@@ -182,7 +183,7 @@ bar.plot <- contig.summary %>%
   geom_text(aes(label=value), position=position_dodge(width=0.9), vjust=-0.4) + 
   xlab("Environment") +
   ylab("Number of vOTUs") +
-  ylim(0,825) +
+  ylim(0,925) +
   scale_fill_manual(values = c("#E69F00", "#56B4E9", "#009E73"), name = "",  labels = c("Unique PC", "Unique KIT", "Shared")) +
   theme_bw() +
   theme(axis.text.x = element_text(size = 10),
@@ -212,3 +213,66 @@ fig.2 <- plot_grid(bar.plot, panel.B, nmds.bray.plot, permanova.flextable.grob,
 fig.2
 
 ggsave2("Figure2.pdf", fig.2, width = 12, height = 8.4)
+
+
+### ANALYSIS OF UNIQUE VOTUS
+phage_cov.joined.filt %>%
+  filter(contig %in% c(setdiff(soil.samples.contigs.PC, soil.samples.contigs.KIT), 
+                       setdiff(human.samples.contigs.PC, human.samples.contigs.KIT),
+                       setdiff(mouse.samples.contigs.PC, mouse.samples.contigs.KIT),
+                       setdiff(soil.samples.contigs.KIT, soil.samples.contigs.PC), 
+                       setdiff(human.samples.contigs.KIT, human.samples.contigs.PC),
+                       setdiff(mouse.samples.contigs.KIT, mouse.samples.contigs.PC))) %>% 
+  summarize(mean_abund = mean(relabund_cov), sd_abund = sd(relabund_cov))
+
+phage_cov.joined.filt %>% 
+  filter(Environment == "HumanFecal") %>% 
+  filter(contig %in% c(setdiff(human.samples.contigs.PC, human.samples.contigs.KIT), setdiff(human.samples.contigs.KIT, human.samples.contigs.PC))) %>% 
+  group_by(sample) %>% 
+  summarize(sum_relabund = sum(relabund_cov)) %>% 
+  summarize(mean = mean(sum_relabund), sd = sd(sum_relabund))
+
+phage_cov.joined.filt %>% 
+  filter(Environment == "MouseFecal") %>% 
+  filter(contig %in% c(setdiff(mouse.samples.contigs.PC, mouse.samples.contigs.KIT), setdiff(mouse.samples.contigs.KIT, mouse.samples.contigs.PC))) %>% 
+  group_by(sample) %>% 
+  summarize(sum_relabund = sum(relabund_cov)) %>% 
+  summarize(mean = mean(sum_relabund), sd = sd(sum_relabund))
+
+phage_cov.joined.filt %>% 
+  filter(Environment == "Soil") %>% 
+  filter(contig %in% c(setdiff(soil.samples.contigs.PC, soil.samples.contigs.KIT), setdiff(soil.samples.contigs.KIT, soil.samples.contigs.PC))) %>% 
+  group_by(sample) %>% 
+  summarize(sum_relabund = sum(relabund_cov)) %>% 
+  summarize(mean = mean(sum_relabund), sd = sd(sum_relabund))
+
+
+### IPHOP HOST PREDICTION ANALYSIS
+iphop_out <- read_csv("Host_prediction_to_genus_m90.csv")
+
+length(unique(iphop_out$Virus)) 
+length(unique(phage_cov$contig)) # 623 unique vOTUs with host assignment, out of 2,141 total vOTUs
+
+iphop_out.dedup <- iphop_out %>% group_by(Virus) %>% arrange(desc(`Confidence score`)) %>% slice(1)
+
+iphop_out.dedup <- iphop_out.dedup[, c("Virus", "Host genus")]
+
+iphop_out.split <- iphop_out.dedup %>% 
+  separate(col = `Host genus`, into = c("domain", "phylum", "class", "order", "family", "genus"), sep = ";")
+
+iphop_out.split$domain <- gsub("d__", "", iphop_out.split$domain)
+iphop_out.split$phylum <- gsub("p__", "", iphop_out.split$phylum)
+iphop_out.split$class <- gsub("c__", "", iphop_out.split$class)
+iphop_out.split$order <- gsub("o__", "", iphop_out.split$order)
+iphop_out.split$family <- gsub("f__", "", iphop_out.split$family)
+iphop_out.split$genus <- gsub("g__", "", iphop_out.split$genus)
+
+iphop_out.split$phylum <- sapply(strsplit(iphop_out.split$phylum, "_"), `[`, 1)
+iphop_out.split$genus <- sapply(strsplit(iphop_out.split$genus, "_"), `[`, 1)
+
+phage_cov.joined.host <- left_join(phage_cov.joined.filt, iphop_out.split, by = c("contig" = "Virus")) %>% 
+  filter(!is.na(family))
+
+phage_cov.joined.host %>% 
+  group_by(sample, order, phylum, ExtractionMethod, Environment) %>% 
+  summarize (total_order_abund = sum(relabund_cov)) %>% view()
